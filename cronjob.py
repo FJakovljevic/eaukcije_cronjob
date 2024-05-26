@@ -57,7 +57,7 @@ def create_dump():
         "Percentage": "%",
         "PropertyType": "Tip",
         "Category.Name": "Kategorija",
-        "Description": "Опис",
+        "Description": "Opis",
         "Url": "Link",
     }
 
