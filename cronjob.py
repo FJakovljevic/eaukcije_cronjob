@@ -39,7 +39,7 @@ def get_property_details(property_id, property_type):
 def get_all_property_details():
     df = get_all_auctions()
     with ProcessPoolExecutor() as executor:
-        results = list(tqdm(executor.map(get_property_details, df.Id, df.PropertyType), total=len(df), miniters=50))
+        results = list(tqdm(executor.map(get_property_details, df.Id, df.PropertyType), total=len(df), mininterval=30))
     return pd.json_normalize(results)
 
 
