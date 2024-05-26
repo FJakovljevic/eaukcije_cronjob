@@ -27,3 +27,18 @@ jobs:
 
       - name: Run cronjob script
         run: python cronjob.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name FJakovljevic
+          git config --global user.email ${{secrets.EMAIL}}
+
+      - name: Commit changes
+        run: |
+          git add data/runs.csv
+          git commit -m "Updating Data"
+     
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
