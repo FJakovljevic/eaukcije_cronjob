@@ -2,8 +2,7 @@ name: Run cronjob
 
 on:
   schedule:
-    # Runs every 15 minutes
-    - cron: '*/15 * * * *'
+    - cron: '15 0,12 * * *' # Runs every 00:15 and 12:15
   workflow_dispatch:  # Allows manual triggering of the workflow
   push:
     branches:
