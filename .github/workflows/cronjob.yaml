@@ -35,6 +35,7 @@ jobs:
       - name: Commit changes
         run: |
           git add data/runs.csv
+          git add data/EAukcija_dump.csv
           git commit -m "Updating Data"
      
       - name: Push changes
