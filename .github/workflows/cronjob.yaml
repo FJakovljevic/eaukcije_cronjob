@@ -2,7 +2,7 @@ name: Run cronjob
 
 on:
   schedule:
-    - cron: '15 0,12 * * *' # Runs every 00:15 and 12:15
+    - cron: '15 0 * * *' # Runs every 00:15
   workflow_dispatch:  # Allows manual triggering of the workflow
   push:
     branches:
@@ -25,7 +25,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run cronjob script
-        run: python cronjob.py
+        run: python scripts/cronjob.py
 
       - name: Configure Git
         run: |
