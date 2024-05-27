@@ -51,9 +51,11 @@ def create_dump():
     type_map = {'MovableProperties': 'Pokretnosti', 'ImmovableProperties': 'Nepokretnosti', 'CommonProperty':'Kombinovano'}
     df["PropertyType"] = df["PropertyType"].map(type_map)
 
+    df["IsFirstSale"] = ~df["IsFirstSale"]
+
     translation_dict = {
         "StartDate": "Datum",
-        "IsFirstSale": "Prva Prodaja",
+        "IsFirstSale": "Ponovljena",
         "Place.Municipality": "Opstina",
         "StartingPrice": "Pocetna Cena",
         "EstimatedPrice": "Procenjena Vrednost",
