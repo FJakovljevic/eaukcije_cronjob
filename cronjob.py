@@ -1,5 +1,5 @@
 import os
-from concurrent.futures import ProcessPoolExecutor
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
 import pandas as pd
@@ -38,7 +38,7 @@ def get_property_details(property_id, property_type):
 
 def get_all_property_details():
     df = get_all_auctions()
-    with ProcessPoolExecutor() as executor:
+    with ThreadPoolExecutor() as executor:
         results = list(tqdm(executor.map(get_property_details, df.Id, df.PropertyType), total=len(df), mininterval=30))
     return pd.json_normalize(results)
 
@@ -47,6 +47,9 @@ def create_dump():
     df = get_all_property_details()
     df["StartDate"] = pd.to_datetime(df["StartDate"]).dt.date
     df["Percentage"] = (100 * df["StartingPrice"] / df["EstimatedPrice"]).round()
+
+    type_map = {'MovableProperties': 'Pokretnosti', 'ImmovableProperties': 'Nepokretnosti', 'CommonProperty':'Kombinovano'}
+    df["PropertyType"] = df["PropertyType"].map(type_map)
 
     translation_dict = {
         "StartDate": "Datum",
