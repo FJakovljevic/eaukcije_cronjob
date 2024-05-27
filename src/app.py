@@ -1,6 +1,5 @@
 import pandas as pd
-import streamlit as st
-
+from streamlit_patched_ads import st
 from steamlit_filterable_df import StreamlitFilterableDF
 
 st.set_page_config(layout="wide", page_title="Bolje E-Aukcije")
