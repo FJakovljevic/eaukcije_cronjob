@@ -12,7 +12,7 @@ with open(index_path, "r") as file:
 index_html = BeautifulSoup(html_content, "lxml")
 
 # creating ads html
-ads_html = """<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>"""
+ads_html = """<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9139235018955761" crossorigin="anonymous"></script>"""
 ads_tag = BeautifulSoup(ads_html, "html.parser")
 
 # if tag doesn't exist add it to header and save file
