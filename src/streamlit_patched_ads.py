@@ -1,5 +1,6 @@
 import importlib
 import pathlib
+import os
 
 from bs4 import BeautifulSoup
 
@@ -19,6 +20,8 @@ ads_tag = BeautifulSoup(ads_html, "html.parser")
 if not index_html.find("script", src=ads_tag.script.get("src")):
     index_html.head.append(ads_tag)
     index_html_with_ads = index_html.prettify()
+    
+    os.chmod(index_path, 0o644)
     index_path.write_text(index_html_with_ads)
 
 
