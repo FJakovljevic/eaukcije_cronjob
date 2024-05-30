@@ -46,7 +46,7 @@ dynamic_filters.display(use_container_width=True, column_config=columns_formatti
 # lose the bot padding...
 st.markdown("""
 <style>
-.appview-container .main .block-container{{
+.block-container{{
     padding-top: 1rem;
     padding-left: 3rem;
     padding-right: 3rem;
