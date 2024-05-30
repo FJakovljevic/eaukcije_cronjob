@@ -1,7 +1,3 @@
-beautifulsoup4
 requests
 pandas
 tqdm
-lxml
-
-git+https://github.com/FJakovljevic/streamlit_ads_patch.git@main#egg=streamlit_ads_patch
