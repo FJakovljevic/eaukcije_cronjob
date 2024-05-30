@@ -42,3 +42,15 @@ columns_formatting = {
 
 dynamic_filters = StreamlitFilterableDF(df=get_auctions_df(), columns_to_filter=columns_to_filter)
 dynamic_filters.display(use_container_width=True, column_config=columns_formatting, hide_index=True, height=500)
+
+# lose the bot padding...
+st.markdown("""
+<style>
+.appview-container .main .block-container{{
+    padding-top: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 0rem;
+}}
+</style>
+""", unsafe_allow_html=True)
