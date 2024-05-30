@@ -46,11 +46,11 @@ dynamic_filters.display(use_container_width=True, column_config=columns_formatti
 # lose the bot padding...
 st.markdown("""
 <style>
-.block-container{{
+.block-container{
     padding-top: 1rem;
     padding-left: 3rem;
     padding-right: 3rem;
     padding-bottom: 0rem;
-}}
+}
 </style>
 """, unsafe_allow_html=True)
