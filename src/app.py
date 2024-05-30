@@ -47,7 +47,7 @@ dynamic_filters.display(use_container_width=True, column_config=columns_formatti
 st.markdown("""
 <style>
 .block-container{
-    padding-top: 1rem;
+    padding-top: 3rem;
     padding-left: 3rem;
     padding-right: 3rem;
     padding-bottom: 0rem;
