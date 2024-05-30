@@ -5,6 +5,18 @@ from steamlit_filterable_df import StreamlitFilterableDF
 
 st.set_page_config(layout="wide", page_title="Bolje E-Aukcije")
 
+# lose the bot padding...
+st.markdown("""
+<style>
+.block-container{
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 0rem;
+}
+</style>
+""", unsafe_allow_html=True)
+
 @st.cache_data
 def load_data():
     df = pd.read_csv("https://raw.githubusercontent.com/FJakovljevic/eaukcije_cronjob/main/data/EAukcija_dump.csv")
@@ -42,15 +54,3 @@ columns_formatting = {
 
 dynamic_filters = StreamlitFilterableDF(df=get_auctions_df(), columns_to_filter=columns_to_filter)
 dynamic_filters.display(use_container_width=True, column_config=columns_formatting, hide_index=True, height=500)
-
-# lose the bot padding...
-st.markdown("""
-<style>
-.block-container{
-    padding-top: 3rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
-    padding-bottom: 0rem;
-}
-</style>
-""", unsafe_allow_html=True)
