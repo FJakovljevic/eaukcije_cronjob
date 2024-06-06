@@ -1,864 +1,4 @@
 Datum,Ponovljena,Opstina,Pocetna Cena,Procenjena Vrednost,%,Tip,Kategorija,Opis,Link
-2024-06-05,True,Лајковац,97080.0,194160.0,50.0,Nepokretnosti,Непокретности,"Њива 5. класе, површине 7075 м2, кат. парцела 132/1, Оштриковац, градско грађевинско земљиште",https://eaukcija.sud.rs/#/aukcije/97194
-2024-06-05,True,Лајковац,114676.0,229352.0,50.0,Nepokretnosti,Непокретности,"Шума 4. класе, површине 4281 м2, кат. парцела 376, Брдо",https://eaukcija.sud.rs/#/aukcije/97195
-2024-06-05,True,Лајковац,43808.59,87617.18,50.0,Nepokretnosti,Непокретности,"Шума 4. класе, површине 2543 м2, кат. парцела 378/2, Брдо",https://eaukcija.sud.rs/#/aukcije/97196
-2024-06-05,True,Лајковац,49874.72,99749.44,50.0,Nepokretnosti,Непокретности,"Шума 4. класе, површине 2432 м2, кат. парцела 395",https://eaukcija.sud.rs/#/aukcije/97198
-2024-06-05,False,Инђија,227832.23,325474.62,70.0,Nepokretnosti,Пољопривредно земљиште,"непокретности уписане у лист непокретности број: 2011  К.О. Нови Сланкамен,  површине 2983 м2, на  парцели број 2043/25, број дела 1, њива 2. класе, ул. Село, на којој  на којој извршни дужник Горан Вучак, Пореч, Варвари, ул. Пиантаде бр. 32, Хрватска, има право својине, са обимом удела од ½",https://eaukcija.sud.rs/#/aukcije/97363
-2024-06-05,False,Лесковац-град,2100.0,3000.0,70.0,Pokretnosti,Разна роба,"Телевизор Panasonic, оштећен",https://eaukcija.sud.rs/#/aukcije/97367
-2024-06-05,False,Лесковац-град,16800.0,24000.0,70.0,Pokretnosti,Намештај,Трпезаријски сто са 6 столица,https://eaukcija.sud.rs/#/aukcije/97368
-2024-06-05,False,Лесковац-град,7000.0,10000.0,70.0,Pokretnosti,Намештај,"ТВ полица, браон боје, са две комодице",https://eaukcija.sud.rs/#/aukcije/97369
-2024-06-05,False,Лесковац-град,5600.0,8000.0,70.0,Pokretnosti,Намештај,"Кухиња од иверице, браон боје",https://eaukcija.sud.rs/#/aukcije/97370
-2024-06-05,False,Лесковац-град,2100.0,3000.0,70.0,Pokretnosti,Разна роба,Микроталасна пећ AEG,https://eaukcija.sud.rs/#/aukcije/97371
-2024-06-05,False,Лесковац-град,10500.0,15000.0,70.0,Pokretnosti,Разна роба,Веш машина Panasonic,https://eaukcija.sud.rs/#/aukcije/97372
-2024-06-05,False,Књажевац,3117583.7,4453691.0,70.0,Nepokretnosti,Објекат,"-кп.бр. 114/7, двособан стан у Књажевцу ул. Љ. Милановића-Копецког, бр. објекта 1, број стана 15, број улаза 3, трећи спрат, у површини од 64 м2, уписана у лист непокретности бр. 11685 КО Књажевац, са уделом 1/1 у приватној својини.",https://eaukcija.sud.rs/#/aukcije/97441
-2024-06-05,True,Косјерић,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"сиве боје, пописна маркица број 001555",https://eaukcija.sud.rs/#/aukcije/97445
-2024-06-05,True,Ужице-град,240000.0,480000.0,50.0,Pokretnosti,Покретне ствари,"зелене боје, модел „P5 500“, произвођач „PAOLOHI MACCHINE 5 PA“ Италија, пописна маркица број 001010",https://eaukcija.sud.rs/#/aukcije/97450
-2024-06-05,True,Ариље,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,"црне боје, величина екрана 32“, пописна маркица број 001536",https://eaukcija.sud.rs/#/aukcije/97451
-2024-06-05,True,Панчево-град,1100.0,2200.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Hubert Šljiva, 0,7l",https://eaukcija.sud.rs/#/aukcije/97480
-2024-06-05,True,Панчево-град,23200.0,46400.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Roner Vinijams, 0,7l",https://eaukcija.sud.rs/#/aukcije/97481
-2024-06-05,True,Панчево-град,210.0,420.0,50.0,Pokretnosti,Покретне ствари,"Rakije Takovo Prepečenica 0,01l",https://eaukcija.sud.rs/#/aukcije/97482
-2024-06-05,True,Панчево-град,1650.0,3300.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Rakija Šljivovica,https://eaukcija.sud.rs/#/aukcije/97483
-2024-06-05,True,Панчево-град,18000.0,36000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Destilerija Hubert Kajsija 0,7l",https://eaukcija.sud.rs/#/aukcije/97484
-2024-06-05,True,Панчево-град,6500.0,13000.0,50.0,Pokretnosti,Покретне ствари,"Rum Captain Morgan 0,7l",https://eaukcija.sud.rs/#/aukcije/97485
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Rum Cuerpo Gold 0,7l",https://eaukcija.sud.rs/#/aukcije/97486
-2024-06-05,True,Панчево-град,23400.0,46800.0,50.0,Pokretnosti,Покретне ствари,"Tekila Two Fingers Silver 0,75l",https://eaukcija.sud.rs/#/aukcije/97487
-2024-06-05,True,Панчево-град,2320.0,4640.0,50.0,Pokretnosti,Покретне ствари,"Vino Tikveš Aleksandrija  0,187l",https://eaukcija.sud.rs/#/aukcije/97488
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Vino Sauvignon Blanc, 2013 I 2016 , 0,75l",https://eaukcija.sud.rs/#/aukcije/97489
-2024-06-05,True,Панчево-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,vino Vinex Rizling  1l,https://eaukcija.sud.rs/#/aukcije/97490
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"vino  Vinarija Aleksić Žuti Cvet Tamjanika 0,75l",https://eaukcija.sud.rs/#/aukcije/97491
-2024-06-05,True,Панчево-град,550.0,1100.0,50.0,Pokretnosti,Покретне ствари,Vinarija Radovanović Muskat Belo Vino,https://eaukcija.sud.rs/#/aukcije/97493
-2024-06-05,True,Панчево-град,36800.0,73600.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Jelički Dukat, Šljivovica Prepečenica",https://eaukcija.sud.rs/#/aukcije/97494
-2024-06-05,True,Панчево-град,5600.0,11200.0,50.0,Pokretnosti,Покретне ствари,"Rakije Srpski Standard Marinković, Kajsijevača  0,7l",https://eaukcija.sud.rs/#/aukcije/97495
-2024-06-05,True,Панчево-град,7150.0,14300.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Borovnjača, 0,7l",https://eaukcija.sud.rs/#/aukcije/97496
-2024-06-05,True,Панчево-град,3850.0,7700.0,50.0,Pokretnosti,Покретне ствари,Rakije Nektar Riznica Kajsijevača,https://eaukcija.sud.rs/#/aukcije/97497
-2024-06-05,True,Панчево-град,4250.0,8500.0,50.0,Pokretnosti,Покретне ствари,"Megdan Rakija  0,7l",https://eaukcija.sud.rs/#/aukcije/97498
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"Rum Old Pascas, Ron Negro 0,7l",https://eaukcija.sud.rs/#/aukcije/97500
-2024-06-05,True,Панчево-град,5750.0,11500.0,50.0,Pokretnosti,Покретне ствари,"Tekila Jose Cuervo Tradicional Respondo 0,7l",https://eaukcija.sud.rs/#/aukcije/97501
-2024-06-05,True,Панчево-град,475.0,950.0,50.0,Pokretnosti,Покретне ствари,"Vino Tribus Villa Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97502
-2024-06-05,True,Панчево-град,650.0,1300.0,50.0,Pokretnosti,Покретне ствари,"Vino Barbara D'Asti, Italijansko Crno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97503
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,Vino Tikveš Vranec,https://eaukcija.sud.rs/#/aukcije/97504
-2024-06-05,True,Панчево-град,10725.0,21450.0,50.0,Pokretnosti,Покретне ствари,"vino Zvonko Bogdan Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97505
-2024-06-05,True,Панчево-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Radovanović Cabernet Sauvignon Classique 0,75l",https://eaukcija.sud.rs/#/aukcije/97506
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"vino Louis Max Challis 0,75l",https://eaukcija.sud.rs/#/aukcije/97507
-2024-06-05,True,Панчево-град,3300.0,6600.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Zarić Magija Od Kajsije, 0,7l",https://eaukcija.sud.rs/#/aukcije/97508
-2024-06-05,True,Панчево-град,3500.0,7000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Stara Sokolova Vruća, Kuvana Rakija Sa Karamel Šećerom",https://eaukcija.sud.rs/#/aukcije/97509
-2024-06-05,True,Панчево-град,40300.0,80600.0,50.0,Pokretnosti,Покретне ствари,"Vilina Rakija Od Maline, 0,7l",https://eaukcija.sud.rs/#/aukcije/97510
-2024-06-05,True,Панчево-град,4800.0,9600.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Malinovača, 0,7l",https://eaukcija.sud.rs/#/aukcije/97511
-2024-06-05,True,Панчево-град,3300.0,6600.0,50.0,Pokretnosti,Покретне ствари,Rubin Rakija Loza 1l,https://eaukcija.sud.rs/#/aukcije/97512
-2024-06-05,True,Панчево-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,"Silver Rum 0,7l",https://eaukcija.sud.rs/#/aukcije/97513
-2024-06-05,True,Панчево-град,5500.0,11000.0,50.0,Pokretnosti,Покретне ствари,"Rum Soccaron 0,7l",https://eaukcija.sud.rs/#/aukcije/97514
-2024-06-05,True,Панчево-град,4250.0,8500.0,50.0,Pokretnosti,Покретне ствари,"Tekila Sauza Tequila Gold 0,7l ",https://eaukcija.sud.rs/#/aukcije/97515
-2024-06-05,True,Панчево-град,8400.0,16800.0,50.0,Pokretnosti,Покретне ствари,"Vino Zvonko Bogdan, Cuvee No1 , 0,75l",https://eaukcija.sud.rs/#/aukcije/97516
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,"Vino Rubin Caberne Sauvignon+ Doncafe 200G, 0,75l",https://eaukcija.sud.rs/#/aukcije/97517
-2024-06-05,True,Панчево-град,300.0,600.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Čoka Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97518
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Aleksić Bonaca Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97519
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"vino Woodbridge By Robert Mondavi California 0,75l",https://eaukcija.sud.rs/#/aukcije/97520
-2024-06-05,True,Панчево-град,3200.0,6400.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Zarić Kraljica Šljivovica, 0,7l",https://eaukcija.sud.rs/#/aukcije/97521
-2024-06-05,True,Панчево-град,34500.0,69000.0,50.0,Pokretnosti,Покретне ствари,Rakija Jelički Dukat  ,https://eaukcija.sud.rs/#/aukcije/97522
-2024-06-05,True,Панчево-град,9600.0,19200.0,50.0,Pokretnosti,Покретне ствари,"Rakije Simex Vučija Rakija Dunja, 0,7l",https://eaukcija.sud.rs/#/aukcije/97523
-2024-06-05,True,Панчево-град,280.0,560.0,50.0,Pokretnosti,Покретне ствари,"Rakija Vino Župa Šljivova Prepečenica 0,1 l",https://eaukcija.sud.rs/#/aukcije/97524
-2024-06-05,True,Панчево-град,1150.0,2300.0,50.0,Pokretnosti,Покретне ствари,"Rakije Vinex Voda Života 0,7l",https://eaukcija.sud.rs/#/aukcije/97525
-2024-06-05,True,Панчево-град,46250.0,92500.0,50.0,Pokretnosti,Покретне ствари,Rum Brugal Anejo 1l,https://eaukcija.sud.rs/#/aukcije/97526
-2024-06-05,True,Панчево-град,1700.0,3400.0,50.0,Pokretnosti,Покретне ствари,"Tekila Sauza Tequila Blanco 0,7l",https://eaukcija.sud.rs/#/aukcije/97527
-2024-06-05,True,Панчево-град,5400.0,10800.0,50.0,Pokretnosti,Покретне ствари,"Tekila Agavita Gold 0,7l",https://eaukcija.sud.rs/#/aukcije/97528
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Vino D'Maine Lepovo Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97529
-2024-06-05,True,Панчево-град,240.0,480.0,50.0,Pokretnosti,Покретне ствари,"Vino Plantaže 13, Jul Crnogorski Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97530
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"vino Vršački Vinogradi Frankovka 0,75l",https://eaukcija.sud.rs/#/aukcije/97531
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"vino Vino Župa Kratošija 0,75l",https://eaukcija.sud.rs/#/aukcije/97532
-2024-06-05,True,Панчево-град,1100.0,2200.0,50.0,Pokretnosti,Покретне ствари,"vino, Skovin Muskat 0,75l",https://eaukcija.sud.rs/#/aukcije/97533
-2024-06-05,True,Панчево-град,22750.0,45500.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Bela Voda 0,75l",https://eaukcija.sud.rs/#/aukcije/97534
-2024-06-05,True,Панчево-град,39900.0,79800.0,50.0,Pokretnosti,Покретне ствари,"Status Doo Kalča Poluslatko Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97535
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Sunčani Breg Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97536
-2024-06-05,True,Панчево-град,1950.0,3900.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Aleksandrović Varijanta 0,75l",https://eaukcija.sud.rs/#/aukcije/97537
-2024-06-05,True,Панчево-град,6750.0,13500.0,50.0,Pokretnosti,Покретне ствари,"Podrum Vojinović Poezija Suvo Stono Belo Vino  0,75l",https://eaukcija.sud.rs/#/aukcije/97538
-2024-06-05,True,Панчево-град,800.0,1600.0,50.0,Pokretnosti,Покретне ствари,"Simex Vermut, Aromatizovano Belo Vino 1l",https://eaukcija.sud.rs/#/aukcije/97539
-2024-06-05,True,Панчево-град,4900.0,9800.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97540
-2024-06-05,True,Панчево-град,375.0,750.0,50.0,Pokretnosti,Покретне ствари,"Stobi Chardonnay 0,187l",https://eaukcija.sud.rs/#/aukcije/97541
-2024-06-05,True,Панчево-град,2160.0,4320.0,50.0,Pokretnosti,Покретне ствари,"Grand Sud Chardonnay  0,25l",https://eaukcija.sud.rs/#/aukcije/97542
-2024-06-05,True,Панчево-град,54600.0,109200.0,50.0,Pokretnosti,Покретне ствари,"Cinzano Bianco 0,75l",https://eaukcija.sud.rs/#/aukcije/97543
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,Toplički Vinogradi Epigenia Cabernet Sauvignon 0.75l,https://eaukcija.sud.rs/#/aukcije/97544
-2024-06-05,True,Панчево-град,2700.0,5400.0,50.0,Pokretnosti,Покретне ствари,"Orpheline Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97545
-2024-06-05,True,Панчево-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,"Rubin Prokupac, Crveno Vino + 1 Čaša 0,75l",https://eaukcija.sud.rs/#/aukcije/97546
-2024-06-05,True,Панчево-град,1300.0,2600.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Imperian Prepečenica, 0,75l",https://eaukcija.sud.rs/#/aukcije/97547
-2024-06-05,True,Панчево-град,16875.0,33750.0,50.0,Pokretnosti,Покретне ствари,"Rakije Srpski Standard Marinković, Lozovača, 0,7l",https://eaukcija.sud.rs/#/aukcije/97548
-2024-06-05,True,Панчево-град,3300.0,6600.0,50.0,Pokretnosti,Покретне ствари,Simex Vučija Rakija Šljiva,https://eaukcija.sud.rs/#/aukcije/97549
-2024-06-05,True,Панчево-град,550.0,1100.0,50.0,Pokretnosti,Покретне ствари,Rakije Šurlan Žuti Med 0.7l,https://eaukcija.sud.rs/#/aukcije/97550
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,Vršački Vinogradi Lozova Rakija,https://eaukcija.sud.rs/#/aukcije/97551
-2024-06-05,True,Панчево-град,26400.0,52800.0,50.0,Pokretnosti,Покретне ствари,Simex - Piratski Rum,https://eaukcija.sud.rs/#/aukcije/97552
-2024-06-05,True,Панчево-град,1300.0,2600.0,50.0,Pokretnosti,Покретне ствари,"Tekila Fiesta Mexicana Gpld 0,7l",https://eaukcija.sud.rs/#/aukcije/97553
-2024-06-05,True,Панчево-град,2262.0,4524.0,50.0,Pokretnosti,Покретне ствари,"Rose Suvo Vino, Plantaže 0,187l",https://eaukcija.sud.rs/#/aukcije/97554
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Vino Vermutino, Aromatizovano Belo Vino 1l",https://eaukcija.sud.rs/#/aukcije/97555
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Vino Plantaže 13. Jul Vladika 0,75l",https://eaukcija.sud.rs/#/aukcije/97556
-2024-06-05,True,Панчево-град,3125.0,6250.0,50.0,Pokretnosti,Покретне ствари,"Tribus Villa Prokupac Suvo Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97557
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"vino Pik Oplenac Doo Tron Cuve 0,75l",https://eaukcija.sud.rs/#/aukcije/97558
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"vino Lamblin I Fils Merlot Cabernet 0,75l",https://eaukcija.sud.rs/#/aukcije/97559
-2024-06-05,True,Панчево-град,1900.0,3800.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Šurlan Deda Jovina Dunja, 0,7l",https://eaukcija.sud.rs/#/aukcije/97560
-2024-06-05,True,Панчево-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,"Rakije,  Saint Vivant Armagnac, 0,7l",https://eaukcija.sud.rs/#/aukcije/97561
-2024-06-05,True,Панчево-град,20150.0,40300.0,50.0,Pokretnosti,Покретне ствари,"Takovo Rakija Breskovača , 0,7l",https://eaukcija.sud.rs/#/aukcije/97562
-2024-06-05,True,Панчево-град,20400.0,40800.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Dunjevača, 0.7l",https://eaukcija.sud.rs/#/aukcije/97563
-2024-06-05,True,Панчево-град,10800.0,21600.0,50.0,Pokretnosti,Покретне ствари,"Rakije Destilerija Hubert Viljamovka 0,7l",https://eaukcija.sud.rs/#/aukcije/97564
-2024-06-05,True,Панчево-град,22000.0,44000.0,50.0,Pokretnosti,Покретне ствари,Poklon Pakovanja  it”s party time  ,https://eaukcija.sud.rs/#/aukcije/97565
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,Cuerpo White Rum,https://eaukcija.sud.rs/#/aukcije/97566
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Tekila Two Fingers Jose M Velasco 0,75l",https://eaukcija.sud.rs/#/aukcije/97567
-2024-06-05,True,Панчево-град,1917.0,3834.0,50.0,Pokretnosti,Покретне ствари,"Vino Tikveš Aleksandrija Cabernet Sauvignon 0,187l",https://eaukcija.sud.rs/#/aukcije/97568
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"Kartošija, Vino Župa  1l",https://eaukcija.sud.rs/#/aukcije/97569
-2024-06-05,True,Панчево-град,300.0,600.0,50.0,Pokretnosti,Покретне ствари,"vino Vinex Zamfir 0,75l",https://eaukcija.sud.rs/#/aukcije/97570
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Aleksić Kardaš Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97571
-2024-06-05,True,Панчево-град,325.0,650.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Radovanović Pinoas 0,75l",https://eaukcija.sud.rs/#/aukcije/97572
-2024-06-05,True,Панчево-град,2900.0,5800.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Zarić Nirvana Od Kruške, 0,7l",https://eaukcija.sud.rs/#/aukcije/97573
-2024-06-05,True,Панчево-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Roner Waldhimbeergeist 0.7l
-",https://eaukcija.sud.rs/#/aukcije/97574
-2024-06-05,True,Панчево-град,27900.0,55800.0,50.0,Pokretnosti,Покретне ствари,"Vilina Rakija Od Šljive 0,7l",https://eaukcija.sud.rs/#/aukcije/97575
-2024-06-05,True,Панчево-град,300.0,600.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Malinovača 0,5l",https://eaukcija.sud.rs/#/aukcije/97576
-2024-06-05,True,Панчево-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Destilerija Hubert Dunja 0,7l",https://eaukcija.sud.rs/#/aukcije/97577
-2024-06-05,True,Панчево-град,15750.0,31500.0,50.0,Pokretnosti,Покретне ствари,"Rum Barbadosa 0,7l",https://eaukcija.sud.rs/#/aukcije/97578
-2024-06-05,True,Панчево-град,3150.0,6300.0,50.0,Pokretnosti,Покретне ствари,"Rum Havana Club Anejo 0,7l",https://eaukcija.sud.rs/#/aukcije/97579
-2024-06-05,True,Панчево-град,18700.0,37400.0,50.0,Pokretnosti,Покретне ствари,"Tekila Sauza Tequila Silver 0,7l",https://eaukcija.sud.rs/#/aukcije/97580
-2024-06-05,True,Панчево-град,1575.0,3150.0,50.0,Pokretnosti,Покретне ствари,"Vino Graševina, Vinarija Čoka 0,75l",https://eaukcija.sud.rs/#/aukcije/97581
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Vino Rubin Medveđa Krv 1l, ",https://eaukcija.sud.rs/#/aukcije/97582
-2024-06-05,True,Панчево-град,200.0,400.0,50.0,Pokretnosti,Покретне ствари,vino Vinex Smederevka 1l,https://eaukcija.sud.rs/#/aukcije/97583
-2024-06-05,True,Панчево-град,800.0,1600.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Aleksić Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97584
-2024-06-05,True,Панчево-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,"vino Cinzano Vermuth Bianco 0,75l",https://eaukcija.sud.rs/#/aukcije/97585
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Ivanović Prokupac  0,75l",https://eaukcija.sud.rs/#/aukcije/97586
-2024-06-05,True,Панчево-град,23100.0,46200.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Zarić Nostalgija Od Dunje, 0,7l",https://eaukcija.sud.rs/#/aukcije/97587
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Medna Rosa 0,7l",https://eaukcija.sud.rs/#/aukcije/97588
-2024-06-05,True,Панчево-град,21250.0,42500.0,50.0,Pokretnosti,Покретне ствари,"Urban Cedivine, Stara Rakija Od Jabuke Sa Cimetom I Medom",https://eaukcija.sud.rs/#/aukcije/97589
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Rakija Viljamovka 0.7l,https://eaukcija.sud.rs/#/aukcije/97590
-2024-06-05,True,Панчево-град,4800.0,9600.0,50.0,Pokretnosti,Покретне ствари,"Perun Rakija Viljamovka 0,75l",https://eaukcija.sud.rs/#/aukcije/97591
-2024-06-05,True,Панчево-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,"Rum Bacardi, Carta Blanca 1l",https://eaukcija.sud.rs/#/aukcije/97592
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,Rum Keapetan Lađe ,https://eaukcija.sud.rs/#/aukcije/97593
-2024-06-05,True,Панчево-град,12100.0,24200.0,50.0,Pokretnosti,Покретне ствари,"Tekila Sierra Tequila 0,7l",https://eaukcija.sud.rs/#/aukcije/97594
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Vina Monarh, Pik Oplenac 0,75l",https://eaukcija.sud.rs/#/aukcije/97595
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,Rubin Vermut Aromatizovano Vino 1l,https://eaukcija.sud.rs/#/aukcije/97596
-2024-06-05,True,Панчево-град,1125.0,2250.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Čoka Graševina 0,75l",https://eaukcija.sud.rs/#/aukcije/97597
-2024-06-05,True,Панчево-град,125.0,250.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rose 10, 1l",https://eaukcija.sud.rs/#/aukcije/97598
-2024-06-05,True,Панчево-град,2700.0,5400.0,50.0,Pokretnosti,Покретне ствари,"vino Fiorelli Chardonnay, 0,75l",https://eaukcija.sud.rs/#/aukcije/97599
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Rubin Prepečenica, 1l",https://eaukcija.sud.rs/#/aukcije/97600
-2024-06-05,True,Панчево-град,2350.0,4700.0,50.0,Pokretnosti,Покретне ствари,Rakije Bojkovčanka Šljiva,https://eaukcija.sud.rs/#/aukcije/97601
-2024-06-05,True,Панчево-град,2800.0,5600.0,50.0,Pokretnosti,Покретне ствари,"Simex Vučija Rakija Kajsija, 0,7l",https://eaukcija.sud.rs/#/aukcije/97602
-2024-06-05,True,Панчево-град,6750.0,13500.0,50.0,Pokretnosti,Покретне ствари,"Rakija Šurlan Kruška Viljamovka 0,7l",https://eaukcija.sud.rs/#/aukcije/97603
-2024-06-05,True,Панчево-град,8400.0,16800.0,50.0,Pokretnosti,Покретне ствари,Podrum Nedeljković Rakija Lozovača Sa Plodom,https://eaukcija.sud.rs/#/aukcije/97604
-2024-06-05,True,Панчево-град,7200.0,14400.0,50.0,Pokretnosti,Покретне ствари,"Rum Pampero Anejo Especial 0,7l",https://eaukcija.sud.rs/#/aukcije/97605
-2024-06-05,True,Панчево-град,19800.0,39600.0,50.0,Pokretnosti,Покретне ствари,"Tekila Sierra Tequila Silver 0,7l ",https://eaukcija.sud.rs/#/aukcije/97606
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Tekila Silver Patron 0,75l",https://eaukcija.sud.rs/#/aukcije/97607
-2024-06-05,True,Панчево-град,5320.0,10640.0,50.0,Pokretnosti,Покретне ствари,"Vino Gavi, Scanavino 0,75l",https://eaukcija.sud.rs/#/aukcije/97608
-2024-06-05,True,Панчево-град,85.0,170.0,50.0,Pokretnosti,Покретне ствари,"Vino Plantaže 13. Jul Crnogorski Chardonnay 0,187l",https://eaukcija.sud.rs/#/aukcije/97609
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,vino Vršački Vinogradi Kutres Vršački Rizling 2004 0.75l,https://eaukcija.sud.rs/#/aukcije/97610
-2024-06-05,True,Панчево-град,1050.0,2100.0,50.0,Pokretnosti,Покретне ствари,"vino Vino Župa Bariko 0,75l",https://eaukcija.sud.rs/#/aukcije/97611
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,Fruškogorsko Vino Plemenika 1l,https://eaukcija.sud.rs/#/aukcije/97612
-2024-06-05,True,Панчево-град,18975.0,37950.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Zarić Medenka, 1l",https://eaukcija.sud.rs/#/aukcije/97613
-2024-06-05,True,Панчево-град,1055.7,2111.4,50.0,Pokretnosti,Покретне ствари,"Vršački Vinogradi Zlatni Vinjak,Rakija Od Grožđa",https://eaukcija.sud.rs/#/aukcije/97614
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"Rakija Simex Šljiva Brka, 1l",https://eaukcija.sud.rs/#/aukcije/97615
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Kupinovača 0,7l",https://eaukcija.sud.rs/#/aukcije/97616
-2024-06-05,True,Панчево-град,58800.0,117600.0,50.0,Pokretnosti,Покретне ствари,"Rakije Roner Aprico 0,7l",https://eaukcija.sud.rs/#/aukcije/97617
-2024-06-05,True,Панчево-град,3870.0,7740.0,50.0,Pokretnosti,Покретне ствари,"Rum Brugal Anejo 0,05l",https://eaukcija.sud.rs/#/aukcije/97618
-2024-06-05,True,Панчево-град,2300.0,4600.0,50.0,Pokretnosti,Покретне ствари,"Tekila Jose Cuervo Nuestro Tequila 0,7l",https://eaukcija.sud.rs/#/aukcije/97619
-2024-06-05,True,Панчево-град,2200.0,4400.0,50.0,Pokretnosti,Покретне ствари,"Tekila El Jimador Tequila Reposado 0,7l",https://eaukcija.sud.rs/#/aukcije/97620
-2024-06-05,True,Панчево-град,40800.0,81600.0,50.0,Pokretnosti,Покретне ствари,"Vino D'Maine Lepovo, Pinot Noir 0,75l",https://eaukcija.sud.rs/#/aukcije/97621
-2024-06-05,True,Панчево-град,1445.0,2890.0,50.0,Pokretnosti,Покретне ствари,"Vino Plantaže 13. Jul Crnogorski Krstač 0,187l",https://eaukcija.sud.rs/#/aukcije/97622
-2024-06-05,True,Панчево-град,90.0,180.0,50.0,Pokretnosti,Покретне ствари,"vino Vršački Vinogradi Pastuv 0,75l",https://eaukcija.sud.rs/#/aukcije/97623
-2024-06-05,True,Панчево-град,555.0,1110.0,50.0,Pokretnosti,Покретне ствари,"vino Vino Župa Tamjanika 0,75l",https://eaukcija.sud.rs/#/aukcije/97624
-2024-06-05,True,Панчево-град,1650.0,3300.0,50.0,Pokretnosti,Покретне ствари,"vino Graffigna Centenario 0,75l",https://eaukcija.sud.rs/#/aukcije/97625
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Destilerija Zarić Dunja, 1l",https://eaukcija.sud.rs/#/aukcije/97626
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Vinex Rakija Viljamovka, 0,7l",https://eaukcija.sud.rs/#/aukcije/97627
-2024-06-05,True,Панчево-град,7400.0,14800.0,50.0,Pokretnosti,Покретне ствари,"Urban Cedivine,Stara Rakija Mednica, 0,5l",https://eaukcija.sud.rs/#/aukcije/97628
-2024-06-05,True,Панчево-град,5500.0,11000.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Rakija Kajsijevača,https://eaukcija.sud.rs/#/aukcije/97629
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Rakija Perun Šljiva 0,72l",https://eaukcija.sud.rs/#/aukcije/97630
-2024-06-05,True,Панчево-град,6500.0,13000.0,50.0,Pokretnosti,Покретне ствари,"Pascas, Barbados Dark Rum 0,7l",https://eaukcija.sud.rs/#/aukcije/97631
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,"Rum Afterwork Silver 0,7l",https://eaukcija.sud.rs/#/aukcije/97632
-2024-06-05,True,Панчево-град,1100.0,2200.0,50.0,Pokretnosti,Покретне ствари,"Tekila Mariachi Tequila Silver 0,7l",https://eaukcija.sud.rs/#/aukcije/97633
-2024-06-05,True,Панчево-град,43200.0,86400.0,50.0,Pokretnosti,Покретне ствари,"Vino D'Maine Lepovo Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97634
-2024-06-05,True,Панчево-град,1050.0,2100.0,50.0,Pokretnosti,Покретне ствари,Vino Plantaže 13. Jul Crnogorski Krstač 1l,https://eaukcija.sud.rs/#/aukcije/97635
-2024-06-05,True,Панчево-град,275.0,550.0,50.0,Pokretnosti,Покретне ствари,vino Vinarija Čoka Merlot 0.75l,https://eaukcija.sud.rs/#/aukcije/97636
-2024-06-05,True,Панчево-град,625.0,1250.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Rizling Stono Suvo Belo Vino 1l,https://eaukcija.sud.rs/#/aukcije/97637
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"vino Shiraz Jacob'S Creek 0,75l",https://eaukcija.sud.rs/#/aukcije/97638
-2024-06-05,True,Панчево-град,9600.0,19200.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Imperian Rakija Od Voća Viljamovka, 0,75l",https://eaukcija.sud.rs/#/aukcije/97639
-2024-06-05,True,Панчево-град,5600.0,11200.0,50.0,Pokretnosti,Покретне ствари,"Rakije Srpski Standard Marinković, Viljamovka, 0,7l",https://eaukcija.sud.rs/#/aukcije/97640
-2024-06-05,True,Панчево-град,350.0,700.0,50.0,Pokretnosti,Покретне ствари,Rakija Simex Travarica 1l,https://eaukcija.sud.rs/#/aukcije/97641
-2024-06-05,True,Панчево-град,10200.0,20400.0,50.0,Pokretnosti,Покретне ствари,"Rakije Nektar Riznica Dunjevača 0,7l",https://eaukcija.sud.rs/#/aukcije/97642
-2024-06-05,True,Панчево-град,5400.0,10800.0,50.0,Pokretnosti,Покретне ствари,"Rakija Metaxa 0,7l",https://eaukcija.sud.rs/#/aukcije/97643
-2024-06-05,True,Панчево-град,2940.0,5880.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rum 0,1l",https://eaukcija.sud.rs/#/aukcije/97644
-2024-06-05,True,Панчево-град,14000.0,28000.0,50.0,Pokretnosti,Покретне ствари,"Tekila Pueblo Silver 0,7l",https://eaukcija.sud.rs/#/aukcije/97645
-2024-06-05,True,Панчево-град,890.0,1780.0,50.0,Pokretnosti,Покретне ствари,"Vina Merlot, Delle Venecia 0,75l",https://eaukcija.sud.rs/#/aukcije/97646
-2024-06-05,True,Панчево-град,550.0,1100.0,50.0,Pokretnosti,Покретне ствари,"Vino Vinex Grozd Despot Stono Suvo Belo, Poklon Pak.",https://eaukcija.sud.rs/#/aukcije/97647
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"Doja Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97648
-2024-06-05,True,Панчево-град,8325.0,16650.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Aleksandrović Trijumf 0,75l",https://eaukcija.sud.rs/#/aukcije/97649
-2024-06-05,True,Панчево-град,300.0,600.0,50.0,Pokretnosti,Покретне ствари,"vino Povardarie Traminec 0,75l",https://eaukcija.sud.rs/#/aukcije/97650
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,Marconi Bianco Belo Slatko Piće Na Bazi Voćnog Vina 1l,https://eaukcija.sud.rs/#/aukcije/97651
-2024-06-05,True,Панчево-град,150.0,300.0,50.0,Pokretnosti,Покретне ствари,Tikveš Šarac 1l,https://eaukcija.sud.rs/#/aukcije/97652
-2024-06-05,True,Панчево-град,17325.0,34650.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Smederevka Classic Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97653
-2024-06-05,True,Панчево-град,30800.0,61600.0,50.0,Pokretnosti,Покретне ствари,"Mačkov Podrum Portugizer 0,75l",https://eaukcija.sud.rs/#/aukcije/97654
-2024-06-05,True,Панчево-град,2905.0,5810.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Čitluk Žilavka Mostar 0,75l",https://eaukcija.sud.rs/#/aukcije/97655
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,"Podrum Vojinović Istina Stono Suvo Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97656
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Stari Rizling 1l,https://eaukcija.sud.rs/#/aukcije/97657
-2024-06-05,True,Панчево-град,7700.0,15400.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Monarh Vranac 0,75l",https://eaukcija.sud.rs/#/aukcije/97658
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,Stobi Rose 1l,https://eaukcija.sud.rs/#/aukcije/97659
-2024-06-05,True,Панчево-град,9750.0,19500.0,50.0,Pokretnosti,Покретне ствари,Grand Sud Cabernet 1l,https://eaukcija.sud.rs/#/aukcije/97660
-2024-06-05,True,Панчево-град,44000.0,88000.0,50.0,Pokretnosti,Покретне ствари,"Cinzano Gransec 0,75l",https://eaukcija.sud.rs/#/aukcije/97661
-2024-06-05,True,Панчево-град,8925.0,17850.0,50.0,Pokretnosti,Покретне ствари,"Henkell Trocken, Penušavo Belo Polusuvo 0,02l",https://eaukcija.sud.rs/#/aukcije/97662
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Santa Christina Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97663
-2024-06-05,True,Панчево-град,2475.0,4950.0,50.0,Pokretnosti,Покретне ствари,"Vinex Grozd Despot Belo Vino+ 2 Čaše 0,75l",https://eaukcija.sud.rs/#/aukcije/97664
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Šurlan Kajsija, 0,7l",https://eaukcija.sud.rs/#/aukcije/97665
-2024-06-05,True,Панчево-град,900.0,1800.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Perun Dunja, 0,75l",https://eaukcija.sud.rs/#/aukcije/97666
-2024-06-05,True,Панчево-град,4250.0,8500.0,50.0,Pokretnosti,Покретне ствари,"Rakije Plantaže 13. Jul Kruna, Lozova Crnogorska Rakija, 0,75l",https://eaukcija.sud.rs/#/aukcije/97667
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Vino Župa Travarica, 1l",https://eaukcija.sud.rs/#/aukcije/97668
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"Rakije Nektar Riznica Jabukovača 0,7l",https://eaukcija.sud.rs/#/aukcije/97669
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,Rakije Tok Šljivova Prepečenica 1l,https://eaukcija.sud.rs/#/aukcije/97670
-2024-06-05,True,Панчево-град,1300.0,2600.0,50.0,Pokretnosti,Покретне ствари,"Pascas Dark Rum 0,7l",https://eaukcija.sud.rs/#/aukcije/97671
-2024-06-05,True,Панчево-град,3450.0,6900.0,50.0,Pokretnosti,Покретне ствари,"Tekila Jose Cuervo Especial Tequila Silver 0,7l",https://eaukcija.sud.rs/#/aukcije/97672
-2024-06-05,True,Панчево-град,3430.0,6860.0,50.0,Pokretnosti,Покретне ствари,"Vino Rose Fruite, Lamblin I Fils 0,75l",https://eaukcija.sud.rs/#/aukcije/97673
-2024-06-05,True,Панчево-град,525.0,1050.0,50.0,Pokretnosti,Покретне ствари,"Smederevka Stobi, Belo Vino",https://eaukcija.sud.rs/#/aukcije/97674
-2024-06-05,True,Панчево-град,110.0,220.0,50.0,Pokretnosti,Покретне ствари,"vino Vinex Vranac 0,75l",https://eaukcija.sud.rs/#/aukcije/97675
-2024-06-05,True,Панчево-град,1040.0,2080.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Aleksić Nostalgija 0,75l",https://eaukcija.sud.rs/#/aukcije/97676
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Radovanović Pino Sivi 0,75l",https://eaukcija.sud.rs/#/aukcije/97677
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Imperian Malina, 0,75l",https://eaukcija.sud.rs/#/aukcije/97678
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Rakije Bojkovčanka Dunja, Poklon Flaša 0,8l",https://eaukcija.sud.rs/#/aukcije/97679
-2024-06-05,True,Панчево-град,12600.0,25200.0,50.0,Pokretnosti,Покретне ствари,Simex Vučija Rakija Viljamovka,https://eaukcija.sud.rs/#/aukcije/97680
-2024-06-05,True,Панчево-град,8100.0,16200.0,50.0,Pokretnosti,Покретне ствари,"Rakija Šurlan Žuta Dunja 0,7l",https://eaukcija.sud.rs/#/aukcije/97681
-2024-06-05,True,Панчево-град,7200.0,14400.0,50.0,Pokretnosti,Покретне ствари,Podrum Nedeljković Rakija Viljamovka Sa Plodom,https://eaukcija.sud.rs/#/aukcije/97682
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,Rum De Santis 1l,https://eaukcija.sud.rs/#/aukcije/97683
-2024-06-05,True,Панчево-град,8800.0,17600.0,50.0,Pokretnosti,Покретне ствари,"Tekila Sierra Tequila Reposado 0,7l",https://eaukcija.sud.rs/#/aukcije/97684
-2024-06-05,True,Панчево-град,220.0,440.0,50.0,Pokretnosti,Покретне ствари,"Vina Rose Deset, Polusuvo Vino 1l",https://eaukcija.sud.rs/#/aukcije/97685
-2024-06-05,True,Панчево-град,800.0,1600.0,50.0,Pokretnosti,Покретне ствари,"Vino Yellow Tail Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97686
-2024-06-05,True,Панчево-град,825.0,1650.0,50.0,Pokretnosti,Покретне ствари,Plantaže 13. Jul Sauvignon Belo Vino,https://eaukcija.sud.rs/#/aukcije/97687
-2024-06-05,True,Панчево-град,85.0,170.0,50.0,Pokretnosti,Покретне ствари,"vino Vršački Vinogradi Helvecija  0,75l",https://eaukcija.sud.rs/#/aukcije/97688
-2024-06-05,True,Панчево-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,"vino Vino Župa Lagum Tamjanika 0,75l",https://eaukcija.sud.rs/#/aukcije/97689
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"vino Lamblin I Fils Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97690
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Bottega Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97691
-2024-06-05,True,Панчево-град,78300.0,156600.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Fashion Peach 0,75l",https://eaukcija.sud.rs/#/aukcije/97692
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Lazar Czar Der Serben 2013 , 0,75l",https://eaukcija.sud.rs/#/aukcije/97693
-2024-06-05,True,Панчево-град,21870.0,43740.0,50.0,Pokretnosti,Покретне ствари,"Rubin Rose Polusuvo Roze Vino 0,187l",https://eaukcija.sud.rs/#/aukcije/97694
-2024-06-05,True,Панчево-град,29400.0,58800.0,50.0,Pokretnosti,Покретне ствари,"Tikveš T'Ga Za Jug 0,75l",https://eaukcija.sud.rs/#/aukcije/97695
-2024-06-05,True,Панчево-град,26400.0,52800.0,50.0,Pokretnosti,Покретне ствари,"Vinex Stari Vuk,Poluslatko Crveno Vino",https://eaukcija.sud.rs/#/aukcije/97696
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Vršački Vinogradi Rizling Italijanski  0,75l",https://eaukcija.sud.rs/#/aukcije/97697
-2024-06-05,True,Панчево-град,11900.0,23800.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Aleksandrović Tema Blend 0,75l",https://eaukcija.sud.rs/#/aukcije/97698
-2024-06-05,True,Панчево-град,13970.0,27940.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Međaš Beli 0,187l",https://eaukcija.sud.rs/#/aukcije/97699
-2024-06-05,True,Панчево-град,5400.0,10800.0,50.0,Pokretnosti,Покретне ствари,"Virtus Tribus Villa Pinot Noir 0,75l",https://eaukcija.sud.rs/#/aukcije/97700
-2024-06-05,True,Панчево-град,20000.0,40000.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Cabernet Sauvignon 0,02l",https://eaukcija.sud.rs/#/aukcije/97701
-2024-06-05,True,Панчево-град,6975.0,13950.0,50.0,Pokretnosti,Покретне ствари,Garling Cabernet Red Semi Dry 1l,https://eaukcija.sud.rs/#/aukcije/97702
-2024-06-05,True,Панчево-град,525.0,1050.0,50.0,Pokretnosti,Покретне ствари,"Mostarsko Vinogorje Hercegovačka Blatina 0,187l",https://eaukcija.sud.rs/#/aukcije/97703
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"Nikolas Wines Suvo Stono Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97704
-2024-06-05,True,Панчево-град,26500.0,53000.0,50.0,Pokretnosti,Покретне ствари,"Rubin Chardonnay Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97705
-2024-06-05,True,Панчево-град,375.0,750.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Medveđa Krv + 2 Čaše 0,75l",https://eaukcija.sud.rs/#/aukcije/97706
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Crnogorski Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97707
-2024-06-05,True,Панчево-град,8400.0,16800.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Chardonnay Oak Edition 0,75l",https://eaukcija.sud.rs/#/aukcije/97708
-2024-06-05,True,Панчево-град,36000.0,72000.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Ohrid Vranac, Suvo Crno Vino 0,2l",https://eaukcija.sud.rs/#/aukcije/97709
-2024-06-05,True,Панчево-град,1575.0,3150.0,50.0,Pokretnosti,Покретне ствари,"Tribus Villa Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97710
-2024-06-05,True,Панчево-град,2125.0,4250.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Kovačević Rosetto Suvo Roze Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97711
-2024-06-05,True,Панчево-град,2050.0,4100.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rose 10, 0,187l",https://eaukcija.sud.rs/#/aukcije/97712
-2024-06-05,True,Панчево-град,6650.0,13300.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Villa Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97713
-2024-06-05,True,Панчево-град,4370.0,8740.0,50.0,Pokretnosti,Покретне ствари,Stobi Vranec Vilarov 1l,https://eaukcija.sud.rs/#/aukcije/97714
-2024-06-05,True,Панчево-град,3500.0,7000.0,50.0,Pokretnosti,Покретне ствари,Vinarija Radovanović Rajinski Rizling 0.75l,https://eaukcija.sud.rs/#/aukcije/97715
-2024-06-05,True,Панчево-град,16800.0,33600.0,50.0,Pokretnosti,Покретне ствари,"Moet Chandon Imperial 0,75l",https://eaukcija.sud.rs/#/aukcije/97716
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"vino Skovin Makedonsko Belo 1,5l",https://eaukcija.sud.rs/#/aukcije/97717
-2024-06-05,True,Панчево-град,4050.0,8100.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Cabernet Sauvignon 0,187l",https://eaukcija.sud.rs/#/aukcije/97718
-2024-06-05,True,Панчево-град,29250.0,58500.0,50.0,Pokretnosti,Покретне ствари,"Rubin Pinot Noir Suvo Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97719
-2024-06-05,True,Панчево-град,12000.0,24000.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13,. Jul Crnogorski Vranac Barroque 0,75l",https://eaukcija.sud.rs/#/aukcije/97720
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Merlot 0,75l",https://eaukcija.sud.rs/#/aukcije/97721
-2024-06-05,True,Панчево-град,70800.0,141600.0,50.0,Pokretnosti,Покретне ствари,"Mačkov Podrum Merlot 0,75l",https://eaukcija.sud.rs/#/aukcije/97722
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Čitluk Hercegovačka Blatina 0,187l",https://eaukcija.sud.rs/#/aukcije/97723
-2024-06-05,True,Панчево-град,1425.0,2850.0,50.0,Pokretnosti,Покретне ствари,"Piccolo Henkell Trocken, Dry Sec 0,02l",https://eaukcija.sud.rs/#/aukcije/97724
-2024-06-05,True,Панчево-град,17600.0,35200.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Vermut Tamni, Aromatizovano Vino 1l",https://eaukcija.sud.rs/#/aukcije/97725
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Tron Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97726
-2024-06-05,True,Панчево-град,370.0,740.0,50.0,Pokretnosti,Покретне ствари,Stobi Žilavka 1l,https://eaukcija.sud.rs/#/aukcije/97727
-2024-06-05,True,Панчево-град,29700.0,59400.0,50.0,Pokretnosti,Покретне ствари,"Milijan Jelić Morava, Belo Stono Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97728
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,"Brut F. Dulac Blanc De Blancs 0,75l",https://eaukcija.sud.rs/#/aukcije/97729
-2024-06-05,True,Панчево-град,250.0,500.0,50.0,Pokretnosti,Покретне ствари,Nikolas Smederevka Stono Sortno Belo Vino 3l,https://eaukcija.sud.rs/#/aukcije/97730
-2024-06-05,True,Панчево-град,37740.0,75480.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Chardonnay  0,187l",https://eaukcija.sud.rs/#/aukcije/97731
-2024-06-05,True,Панчево-град,8800.0,17600.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Car Lazar 0,75l",https://eaukcija.sud.rs/#/aukcije/97732
-2024-06-05,True,Панчево-град,3480.0,6960.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Crnogorski Rose 0,187l",https://eaukcija.sud.rs/#/aukcije/97733
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97734
-2024-06-05,True,Панчево-град,29625.0,59250.0,50.0,Pokretnosti,Покретне ствари,"Mačkov Podrum Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97735
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Tribus Villa Prokupac Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97736
-2024-06-05,True,Панчево-град,4800.0,9600.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Kovačević Aurelius Crno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97737
-2024-06-05,True,Панчево-град,6700.0,13400.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Graševina 0,75l",https://eaukcija.sud.rs/#/aukcije/97738
-2024-06-05,True,Панчево-град,15050.0,30100.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Villa Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97739
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Stobi Graševina, Suvo Belo Vino 1l",https://eaukcija.sud.rs/#/aukcije/97740
-2024-06-05,True,Панчево-град,11250.0,22500.0,50.0,Pokretnosti,Покретне ствари,Vinarija Radovanović Sauvignon Blanc 0.75l,https://eaukcija.sud.rs/#/aukcije/97741
-2024-06-05,True,Панчево-град,24600.0,49200.0,50.0,Pokretnosti,Покретне ствари,"Moet Chandon  0,75l",https://eaukcija.sud.rs/#/aukcije/97742
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,Teachers 1l,https://eaukcija.sud.rs/#/aukcije/97743
-2024-06-05,True,Панчево-град,18900.0,37800.0,50.0,Pokretnosti,Покретне ствари,"Teachers 0,7l",https://eaukcija.sud.rs/#/aukcije/97744
-2024-06-05,True,Панчево-град,8250.0,16500.0,50.0,Pokretnosti,Покретне ствари,"Naked Grouse 0,7l",https://eaukcija.sud.rs/#/aukcije/97745
-2024-06-05,True,Панчево-град,9500.0,19000.0,50.0,Pokretnosti,Покретне ствари,"Xenia Green 0,7l",https://eaukcija.sud.rs/#/aukcije/97746
-2024-06-05,True,Панчево-град,850.0,1700.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Perun Medovača ",https://eaukcija.sud.rs/#/aukcije/97747
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Rakije Srpski Standard Marinković, Dunjevača 0,7l",https://eaukcija.sud.rs/#/aukcije/97748
-2024-06-05,True,Панчево-град,15400.0,30800.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Lozovača,, 0,7l",https://eaukcija.sud.rs/#/aukcije/97749
-2024-06-05,True,Панчево-град,3300.0,6600.0,50.0,Pokretnosti,Покретне ствари,Rakije Nektar Riznica Breskovača,https://eaukcija.sud.rs/#/aukcije/97750
-2024-06-05,True,Панчево-град,2200.0,4400.0,50.0,Pokretnosti,Покретне ствари,Rakije Rose Aceto Dunja,https://eaukcija.sud.rs/#/aukcije/97751
-2024-06-05,True,Панчево-град,4900.0,9800.0,50.0,Pokretnosti,Покретне ствари,"Pascas White Rum 0,7l",https://eaukcija.sud.rs/#/aukcije/97752
-2024-06-05,True,Панчево-град,11500.0,23000.0,50.0,Pokretnosti,Покретне ствари,"Tekila Jose Cuervo Clasico 0,7l",https://eaukcija.sud.rs/#/aukcije/97753
-2024-06-05,True,Панчево-град,1860.0,3720.0,50.0,Pokretnosti,Покретне ствари,"Vino Barovo, Tikveš 0,75l",https://eaukcija.sud.rs/#/aukcije/97754
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Vino Radovanovic, Cabernet 0,75l",https://eaukcija.sud.rs/#/aukcije/97755
-2024-06-05,True,Панчево-град,300.0,600.0,50.0,Pokretnosti,Покретне ствари,Vino Status Doo Rose 1l,https://eaukcija.sud.rs/#/aukcije/97756
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"vino Casillero Del Diablo  0,75l",https://eaukcija.sud.rs/#/aukcije/97757
-2024-06-05,True,Панчево-град,14700.0,29400.0,50.0,Pokretnosti,Покретне ствари,"Rubin Don Rossi Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97758
-2024-06-05,True,Панчево-град,4600.0,9200.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Medveđa Krv 0,75l",https://eaukcija.sud.rs/#/aukcije/97759
-2024-06-05,True,Панчево-град,2750.0,5500.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Merlot 0,75l",https://eaukcija.sud.rs/#/aukcije/97760
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Chardonnay Classic 0,75l",https://eaukcija.sud.rs/#/aukcije/97761
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Čoka Pino Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97762
-2024-06-05,True,Панчево-град,10350.0,20700.0,50.0,Pokretnosti,Покретне ствари,"Tribus Villa Cuvee 0,75l",https://eaukcija.sud.rs/#/aukcije/97763
-2024-06-05,True,Панчево-град,800.0,1600.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Aleksić Barbara, Polusuvo Roze Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97764
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97765
-2024-06-05,True,Панчево-град,18600.0,37200.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Villa Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97766
-2024-06-05,True,Панчево-град,350.0,700.0,50.0,Pokretnosti,Покретне ствари,Povardarie Kadarka 1l,https://eaukcija.sud.rs/#/aukcije/97767
-2024-06-05,True,Панчево-град,29750.0,59500.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Radovanović Franc Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97768
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Casa De Campo Chile, Cabarnet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97769
-2024-06-05,True,Панчево-град,275.0,550.0,50.0,Pokretnosti,Покретне ствари,"Tokaj Roze Vino, 05l",https://eaukcija.sud.rs/#/aukcije/97770
-2024-06-05,True,Панчево-град,480.0,960.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Cabernet Syrah 0,187l",https://eaukcija.sud.rs/#/aukcije/97771
-2024-06-05,True,Панчево-град,4550.0,9100.0,50.0,Pokretnosti,Покретне ствари,"Rubin Vranac Suvo Crveno Vino  0,187l",https://eaukcija.sud.rs/#/aukcije/97772
-2024-06-05,True,Панчево-град,3325.0,6650.0,50.0,Pokretnosti,Покретне ствари,Rubin Rose Polusuvo Roze Vino 1l,https://eaukcija.sud.rs/#/aukcije/97773
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Muskat Ottonet 0,75l",https://eaukcija.sud.rs/#/aukcije/97774
-2024-06-05,True,Панчево-град,1170.0,2340.0,50.0,Pokretnosti,Покретне ствари,"Vinex Despot Stono Crno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97775
-2024-06-05,True,Панчево-град,17200.0,34400.0,50.0,Pokretnosti,Покретне ствари,"Enigma White 0,75l",https://eaukcija.sud.rs/#/aukcije/97776
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"Zvonko Bogdan Život Teče 0,75l",https://eaukcija.sud.rs/#/aukcije/97777
-2024-06-05,True,Панчево-град,7205.0,14410.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Međaš Crni  0,187l",https://eaukcija.sud.rs/#/aukcije/97778
-2024-06-05,True,Панчево-град,59400.0,118800.0,50.0,Pokretnosti,Покретне ствари,"Virtus Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97779
-2024-06-05,True,Панчево-град,26800.0,53600.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Vranec 0,02l",https://eaukcija.sud.rs/#/aukcije/97780
-2024-06-05,True,Панчево-град,9100.0,18200.0,50.0,Pokretnosti,Покретне ствари,Martini Extra Dry 1l,https://eaukcija.sud.rs/#/aukcije/97781
-2024-06-05,True,Панчево-град,1300.0,2600.0,50.0,Pokretnosti,Покретне ствари,"Prosecco Martini 0,75l",https://eaukcija.sud.rs/#/aukcije/97782
-2024-06-05,True,Панчево-град,10500.0,21000.0,50.0,Pokretnosti,Покретне ствари,"Woodbridge By Robert Mondavi Zinfandel 0,75l",https://eaukcija.sud.rs/#/aukcije/97783
-2024-06-05,True,Панчево-град,1925.0,3850.0,50.0,Pokretnosti,Покретне ствари,"Vinex Grozd Despot Stono Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97784
-2024-06-05,True,Панчево-град,14575.0,29150.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Cabernet Sauvignon  0,75l",https://eaukcija.sud.rs/#/aukcije/97785
-2024-06-05,True,Панчево-град,22750.0,45500.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Carica Milica 0,75l",https://eaukcija.sud.rs/#/aukcije/97786
-2024-06-05,True,Панчево-град,1125.0,2250.0,50.0,Pokretnosti,Покретне ствари,"Plantaže 13. Jul Crnogorski Vranac,Crno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97787
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Sauvignon Blanc Special Selection 0,75l",https://eaukcija.sud.rs/#/aukcije/97788
-2024-06-05,True,Панчево-град,14850.0,29700.0,50.0,Pokretnosti,Покретне ствари,"Mačkov Podrum Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97789
-2024-06-05,True,Панчево-град,7800.0,15600.0,50.0,Pokretnosti,Покретне ствари,"Tribus Villa Pinot Noir 0,75l",https://eaukcija.sud.rs/#/aukcije/97790
-2024-06-05,True,Панчево-град,7150.0,14300.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Kovačević Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97791
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Summer Wine 0,75l",https://eaukcija.sud.rs/#/aukcije/97792
-2024-06-05,True,Панчево-град,7525.0,15050.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Tron Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97793
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Stobi Žilavka 0,75l",https://eaukcija.sud.rs/#/aukcije/97794
-2024-06-05,True,Панчево-град,3800.0,7600.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Radovanović Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97795
-2024-06-05,True,Панчево-град,8100.0,16200.0,50.0,Pokretnosti,Покретне ствари,"Brut Piper Heidsieck 0,75l",https://eaukcija.sud.rs/#/aukcije/97796
-2024-06-05,True,Панчево-град,6900.0,13800.0,50.0,Pokretnosti,Покретне ствари,vino J.P. Chenet Cabernet Syrah,https://eaukcija.sud.rs/#/aukcije/97797
-2024-06-05,True,Панчево-град,13650.0,27300.0,50.0,Pokretnosti,Покретне ствари,"Rubin Vranac Suvo Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97798
-2024-06-05,True,Панчево-град,10400.0,20800.0,50.0,Pokretnosti,Покретне ствари,Rubin Rose Polusuvo Roze Vino,https://eaukcija.sud.rs/#/aukcije/97799
-2024-06-05,True,Панчево-град,4800.0,9600.0,50.0,Pokretnosti,Покретне ствари,"Tikveš T'Ga Za Jug 0,2l",https://eaukcija.sud.rs/#/aukcije/97800
-2024-06-05,True,Панчево-град,2040.0,4080.0,50.0,Pokretnosti,Покретне ствари,"Vinex Rose Stono Suvo Roze Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97801
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,Vršački Vinogradi Kutres Chardonnay,https://eaukcija.sud.rs/#/aukcije/97802
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Zvonko Bogdan Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97803
-2024-06-05,True,Панчево-град,34000.0,68000.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Međaš Crni  0,75l",https://eaukcija.sud.rs/#/aukcije/97804
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Virtus Tribus Villa Prokupac 0,75l",https://eaukcija.sud.rs/#/aukcije/97805
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Plavac Mali, 0,02 l",https://eaukcija.sud.rs/#/aukcije/97806
-2024-06-05,True,Панчево-град,8000.0,16000.0,50.0,Pokretnosti,Покретне ствари,Garling Chardonnay White Semi Dry 1l,https://eaukcija.sud.rs/#/aukcije/97807
-2024-06-05,True,Панчево-град,4950.0,9900.0,50.0,Pokretnosti,Покретне ствари,"Prosecco Scanavino 0,75l",https://eaukcija.sud.rs/#/aukcije/97808
-2024-06-05,True,Панчево-град,10350.0,20700.0,50.0,Pokretnosti,Покретне ствари,"Laroche Chablis 0,75l",https://eaukcija.sud.rs/#/aukcije/97809
-2024-06-05,True,Панчево-град,5250.0,10500.0,50.0,Pokretnosti,Покретне ствари,"Amanet Aurora Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97810
-2024-06-05,True,Панчево-град,21200.0,42400.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Fashion Cassis 0,75l",https://eaukcija.sud.rs/#/aukcije/97811
-2024-06-05,True,Панчево-град,3950.0,7900.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Chardonnay 0,187l",https://eaukcija.sud.rs/#/aukcije/97812
-2024-06-05,True,Панчево-град,26250.0,52500.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97813
-2024-06-05,True,Панчево-град,7125.0,14250.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Cabernet Merlot,Oak Edition 0,75l",https://eaukcija.sud.rs/#/aukcije/97814
-2024-06-05,True,Панчево-град,2800.0,5600.0,50.0,Pokretnosti,Покретне ствари,Irig Podrum Plemenka Belo Vino 1l,https://eaukcija.sud.rs/#/aukcije/97815
-2024-06-05,True,Панчево-град,8600.0,17200.0,50.0,Pokretnosti,Покретне ствари,"Vršački Vinogradi Rajnski Rizling 0,75l",https://eaukcija.sud.rs/#/aukcije/97816
-2024-06-05,True,Панчево-град,18400.0,36800.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Aleksandrović Vizija 0,75l ",https://eaukcija.sud.rs/#/aukcije/97817
-2024-06-05,True,Панчево-град,60960.0,121920.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Međaš Beli 0,75l",https://eaukcija.sud.rs/#/aukcije/97818
-2024-06-05,True,Панчево-град,9900.0,19800.0,50.0,Pokretnosti,Покретне ствари,"Virtus Tribus Villa Cuvee, Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97819
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Chardonnay 0,02l",https://eaukcija.sud.rs/#/aukcije/97820
-2024-06-05,True,Панчево-град,6210.0,12420.0,50.0,Pokretnosti,Покретне ствари,"Stobi Antigona,Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97821
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,Grand Sud Veliki Jug 1l,https://eaukcija.sud.rs/#/aukcije/97822
-2024-06-05,True,Панчево-град,50.0,100.0,50.0,Pokretnosti,Покретне ствари,"vino Skovin Makedonsko Belo 0,375l",https://eaukcija.sud.rs/#/aukcije/97823
-2024-06-05,True,Панчево-град,12300.0,24600.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Merlot 0,75l",https://eaukcija.sud.rs/#/aukcije/97824
-2024-06-05,True,Панчево-град,35100.0,70200.0,50.0,Pokretnosti,Покретне ствари,"Rubin Graševina Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97825
-2024-06-05,True,Панчево-град,13500.0,27000.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Crnogorski Vranac  0,187l",https://eaukcija.sud.rs/#/aukcije/97826
-2024-06-05,True,Панчево-град,2700.0,5400.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Grenache Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97827
-2024-06-05,True,Панчево-град,16450.0,32900.0,50.0,Pokretnosti,Покретне ствари,"Mačkov Podrum Frajla 0,75l",https://eaukcija.sud.rs/#/aukcije/97828
-2024-06-05,True,Панчево-град,12000.0,24000.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Čitluk Hercegovačka Žilavka 0,187l",https://eaukcija.sud.rs/#/aukcije/97829
-2024-06-05,True,Панчево-град,10800.0,21600.0,50.0,Pokretnosti,Покретне ствари,"Podrum Vojinović Romansa Stono Suvo Roze Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97830
-2024-06-05,True,Панчево-град,1600.0,3200.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Kupinovo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97831
-2024-06-05,True,Панчево-град,3850.0,7700.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Monarh Cueve 0,75l",https://eaukcija.sud.rs/#/aukcije/97832
-2024-06-05,True,Панчево-град,6880.0,13760.0,50.0,Pokretnosti,Покретне ствари,"Stobi Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97833
-2024-06-05,True,Панчево-град,1870.0,3740.0,50.0,Pokretnosti,Покретне ствари,"Grand Sud Merlot 0,25l",https://eaukcija.sud.rs/#/aukcije/97834
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Brut Dargent  0,75l",https://eaukcija.sud.rs/#/aukcije/97835
-2024-06-05,True,Панчево-град,3250.0,6500.0,50.0,Pokretnosti,Покретне ствари,"vino  J.P. Chenet Merlot Cabernet+ 2 Čaše 0,75l",https://eaukcija.sud.rs/#/aukcije/97836
-2024-06-05,True,Панчево-град,3300.0,6600.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Pinot Noir 0,75l",https://eaukcija.sud.rs/#/aukcije/97837
-2024-06-05,True,Панчево-град,10270.0,20540.0,50.0,Pokretnosti,Покретне ствари,"Rubin Graševina Suvo Belo Vino 0,187l",https://eaukcija.sud.rs/#/aukcije/97838
-2024-06-05,True,Панчево-град,28000.0,56000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Barovo Suvo Belo Vino  0,75l",https://eaukcija.sud.rs/#/aukcije/97839
-2024-06-05,True,Панчево-град,1050.0,2100.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Rkaciteli 0,75l",https://eaukcija.sud.rs/#/aukcije/97840
-2024-06-05,True,Панчево-град,10050.0,20100.0,50.0,Pokretnosti,Покретне ствари,"Sunčani Breg Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97841
-2024-06-05,True,Панчево-град,4950.0,9900.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Čitluk Kameno, Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97842
-2024-06-05,True,Панчево-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,"Podrum Vojinović Opsesija Stono Suvo Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97843
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Vino Od Aronije 0,75l",https://eaukcija.sud.rs/#/aukcije/97844
-2024-06-05,True,Панчево-град,7600.0,15200.0,50.0,Pokretnosti,Покретне ствари,"Pik Oplenac Doo Monarh Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97845
-2024-06-05,True,Панчево-град,3010.0,6020.0,50.0,Pokretnosti,Покретне ствари,"Stobi Rose 0,187l",https://eaukcija.sud.rs/#/aukcije/97846
-2024-06-05,True,Панчево-град,720.0,1440.0,50.0,Pokretnosti,Покретне ствари,"Grand Sud Chardonnay Blanc 0,25l",https://eaukcija.sud.rs/#/aukcije/97847
-2024-06-05,True,Панчево-град,4600.0,9200.0,50.0,Pokretnosti,Покретне ствари,"Cinzano Extra Dry 0,75l",https://eaukcija.sud.rs/#/aukcije/97848
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Grants Plavi 0,7l",https://eaukcija.sud.rs/#/aukcije/97849
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Four Roses Burbon 0,7l",https://eaukcija.sud.rs/#/aukcije/97850
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Canadian Special Old 0,7l",https://eaukcija.sud.rs/#/aukcije/97851
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,"Stolichnaya Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/97852
-2024-06-05,True,Панчево-град,9600.0,19200.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Imperian Dunjevača, 0,75l",https://eaukcija.sud.rs/#/aukcije/97853
-2024-06-05,True,Панчево-град,6250.0,12500.0,50.0,Pokretnosti,Покретне ствари,"Rakije Srpski Standard Marinković, Šljivovica, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97854
-2024-06-05,True,Панчево-град,15000.0,30000.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Rakija Medena, 0,7l",https://eaukcija.sud.rs/#/aukcije/97855
-2024-06-05,True,Панчево-град,15000.0,30000.0,50.0,Pokretnosti,Покретне ствари,"Rakija Nektar Riznica Viljamovka 0,7l",https://eaukcija.sud.rs/#/aukcije/97856
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Rakije Metaxa The Original Greek Spirit 12 Stars 0,75l",https://eaukcija.sud.rs/#/aukcije/97857
-2024-06-05,True,Панчево-град,3850.0,7700.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Rum 1l,https://eaukcija.sud.rs/#/aukcije/97858
-2024-06-05,True,Панчево-град,10200.0,20400.0,50.0,Pokretnosti,Покретне ствари,"Tekila Pepe Lopez 0,7l",https://eaukcija.sud.rs/#/aukcije/97859
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Vina Dant Animus, Vinarija Kovačević 0,75l",https://eaukcija.sud.rs/#/aukcije/97860
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Vino Kutres Vršački Vinogradi 0,75l",https://eaukcija.sud.rs/#/aukcije/97861
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"Moldavsko Vino Cabernet Poluslatko Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97862
-2024-06-05,True,Панчево-град,51300.0,102600.0,50.0,Pokretnosti,Покретне ствари,"Rubin Don Rossi Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97863
-2024-06-05,True,Панчево-град,6700.0,13400.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Medveđa Krv 0,187l",https://eaukcija.sud.rs/#/aukcije/97864
-2024-06-05,True,Панчево-град,1720.0,3440.0,50.0,Pokretnosti,Покретне ствари,vino Rubin Smederevka 1l,https://eaukcija.sud.rs/#/aukcije/97865
-2024-06-05,True,Панчево-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Tamjanika 0,75l",https://eaukcija.sud.rs/#/aukcije/97866
-2024-06-05,True,Панчево-град,14250.0,28500.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Čoka Vranac 0,2l",https://eaukcija.sud.rs/#/aukcije/97867
-2024-06-05,True,Панчево-град,16200.0,32400.0,50.0,Pokretnosti,Покретне ствари,"Enigma Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/97868
-2024-06-05,True,Панчево-град,3480.0,6960.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Aleksić Arno Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97869
-2024-06-05,True,Панчево-град,62205.0,124410.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa Vranac Crveno Stono Suvo Vino  0,75l",https://eaukcija.sud.rs/#/aukcije/97870
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Virtus Epigenia Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97871
-2024-06-05,True,Панчево-град,22000.0,44000.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Vranec 0,187l",https://eaukcija.sud.rs/#/aukcije/97872
-2024-06-05,True,Панчево-град,9100.0,18200.0,50.0,Pokretnosti,Покретне ствари,Martini Bianco 1l,https://eaukcija.sud.rs/#/aukcije/97873
-2024-06-05,True,Панчево-град,11000.0,22000.0,50.0,Pokretnosti,Покретне ствари,"Casa De Campo Chile, Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97874
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,"Moldavsko Vino Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97875
-2024-06-05,True,Панчево-град,13050.0,26100.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Classic 0,75l",https://eaukcija.sud.rs/#/aukcije/97876
-2024-06-05,True,Панчево-град,32100.0,64200.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97877
-2024-06-05,True,Панчево-град,14500.0,29000.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Prokupac 0,75l",https://eaukcija.sud.rs/#/aukcije/97878
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Vranec 0,75l",https://eaukcija.sud.rs/#/aukcije/97879
-2024-06-05,True,Панчево-град,1995.0,3990.0,50.0,Pokretnosti,Покретне ствари,"Vinex Grozd Despot Stono Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97880
-2024-06-05,True,Панчево-град,20250.0,40500.0,50.0,Pokretnosti,Покретне ствари,"Enigma Red 0,75l",https://eaukcija.sud.rs/#/aukcije/97881
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Vinarska Kuća Spasić Tamjanika 0,75l",https://eaukcija.sud.rs/#/aukcije/97882
-2024-06-05,True,Панчево-град,23800.0,47600.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa My Day Polusuvo Gazirano Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97883
-2024-06-05,True,Панчево-град,29700.0,59400.0,50.0,Pokretnosti,Покретне ствари,"Virtus Mlavac Crveni 0,75l",https://eaukcija.sud.rs/#/aukcije/97884
-2024-06-05,True,Панчево-град,5950.0,11900.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Plavac Mali 0,187l",https://eaukcija.sud.rs/#/aukcije/97885
-2024-06-05,True,Панчево-град,4550.0,9100.0,50.0,Pokretnosti,Покретне ствари,Martini Laperitivo Roso 1l,https://eaukcija.sud.rs/#/aukcije/97886
-2024-06-05,True,Панчево-град,15750.0,31500.0,50.0,Pokretnosti,Покретне ствари,"Remy Martin, Šampanjac 0,7l",https://eaukcija.sud.rs/#/aukcije/97887
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Private Selection, California By Robert Mondavi 0,75l",https://eaukcija.sud.rs/#/aukcije/97888
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,"Amanet Carmen Suvo Crveno Vino, 0,75L",https://eaukcija.sud.rs/#/aukcije/97889
-2024-06-05,True,Панчево-град,39975.0,79950.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Colombard Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97890
-2024-06-05,True,Панчево-град,17550.0,35100.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97891
-2024-06-05,True,Панчево-град,910.0,1820.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Cabernet Sauvignon 0,187l",https://eaukcija.sud.rs/#/aukcije/97892
-2024-06-05,True,Панчево-град,1050.0,2100.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Belan, Kvalitetno Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97893
-2024-06-05,True,Панчево-град,150.0,300.0,50.0,Pokretnosti,Покретне ствари,"Status Doo Smederevka  0,75l",https://eaukcija.sud.rs/#/aukcije/97894
-2024-06-05,True,Панчево-град,12250.0,24500.0,50.0,Pokretnosti,Покретне ствари,"Sunčani Breg Burgundac Crni 0,75l",https://eaukcija.sud.rs/#/aukcije/97895
-2024-06-05,True,Панчево-град,9600.0,19200.0,50.0,Pokretnosti,Покретне ствари,"Vinarija Aleksandrović Harizma 0,75l",https://eaukcija.sud.rs/#/aukcije/97896
-2024-06-05,True,Панчево-град,39125.0,78250.0,50.0,Pokretnosti,Покретне ствари,"Vino Župa As Crnjak Poluslatko Stono Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97897
-2024-06-05,True,Панчево-град,86350.0,172700.0,50.0,Pokretnosti,Покретне ствари,"Virtus Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97898
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Povardarie Riesling, Kvalitetno Suvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/97899
-2024-06-05,True,Панчево-град,175.0,350.0,50.0,Pokretnosti,Покретне ствари,Stobi Belo Suvo Vino 1l,https://eaukcija.sud.rs/#/aukcije/97900
-2024-06-05,True,Панчево-град,6375.0,12750.0,50.0,Pokretnosti,Покретне ствари,Grand Sud Chardonnay 1l,https://eaukcija.sud.rs/#/aukcije/97901
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Musecco Methode Classique 0,75l",https://eaukcija.sud.rs/#/aukcije/97902
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"Scanavino Barbera 0,75l",https://eaukcija.sud.rs/#/aukcije/97903
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"Pays Doc, Merlog Cabernet 0,75l",https://eaukcija.sud.rs/#/aukcije/97904
-2024-06-05,True,Панчево-град,3800.0,7600.0,50.0,Pokretnosti,Покретне ствари,Ballantines 1l,https://eaukcija.sud.rs/#/aukcije/97905
-2024-06-05,True,Панчево-град,33800.0,67600.0,50.0,Pokretnosti,Покретне ствари,"Jack Daniels Single Barrel 0,7l",https://eaukcija.sud.rs/#/aukcije/97906
-2024-06-05,True,Панчево-град,7400.0,14800.0,50.0,Pokretnosti,Покретне ствари,"Ardbeg Islay 0,7l",https://eaukcija.sud.rs/#/aukcije/97907
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Limun Vodka 1l,https://eaukcija.sud.rs/#/aukcije/97908
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,Finlandia Cranberry 1l,https://eaukcija.sud.rs/#/aukcije/97909
-2024-06-05,True,Панчево-град,7800.0,15600.0,50.0,Pokretnosti,Покретне ствари,"Džin, Vino Župa Gin, 1l",https://eaukcija.sud.rs/#/aukcije/97910
-2024-06-05,True,Панчево-град,1900.0,3800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Cherry Or, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97911
-2024-06-05,True,Панчево-град,6875.0,13750.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Limunchelo, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97912
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Aperol Aperitivo Poco Acolico, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97913
-2024-06-05,True,Панчево-град,52200.0,104400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Kruškovac Vino Župa, 1l",https://eaukcija.sud.rs/#/aukcije/97914
-2024-06-05,True,Панчево-град,7700.0,15400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Gorki Liker Pelinkovac, 1l",https://eaukcija.sud.rs/#/aukcije/97915
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,Cinzano Vermuth Rosso 1l,https://eaukcija.sud.rs/#/aukcije/97916
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Brut Dargent Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97917
-2024-06-05,True,Панчево-град,1650.0,3300.0,50.0,Pokretnosti,Покретне ствари,Vino Žuto Gin  1l,https://eaukcija.sud.rs/#/aukcije/97918
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"Rubin, De Santis 1l",https://eaukcija.sud.rs/#/aukcije/97919
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Seagrams Kanadski 0,75l",https://eaukcija.sud.rs/#/aukcije/97920
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Stock 84 , 0,7l",https://eaukcija.sud.rs/#/aukcije/97921
-2024-06-05,True,Панчево-град,7600.0,15200.0,50.0,Pokretnosti,Покретне ствари,"Drambuie 0,7l",https://eaukcija.sud.rs/#/aukcije/97922
-2024-06-05,True,Панчево-град,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,"Xenia Red 0,7l",https://eaukcija.sud.rs/#/aukcije/97923
-2024-06-05,True,Панчево-град,16800.0,33600.0,50.0,Pokretnosti,Покретне ствари,"Džin, London Dry Star Of Bombay, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97924
-2024-06-05,True,Панчево-град,5625.0,11250.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Blueberry, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97925
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Banana, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97926
-2024-06-05,True,Панчево-град,2800.0,5600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Cherry, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97927
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Rubin 7 Blue Curacao, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97928
-2024-06-05,True,Панчево-град,3500.0,7000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Manzanita, 0,7l",https://eaukcija.sud.rs/#/aukcije/97929
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"Yellow Tail  Shiraz, Casella Wines 0,75l",https://eaukcija.sud.rs/#/aukcije/97930
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Skovin Kale 0,75l",https://eaukcija.sud.rs/#/aukcije/97931
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Temet Ergo Crveno 0,75l",https://eaukcija.sud.rs/#/aukcije/97932
-2024-06-05,True,Панчево-град,6750.0,13500.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Honey 0,7l",https://eaukcija.sud.rs/#/aukcije/97933
-2024-06-05,True,Панчево-град,35100.0,70200.0,50.0,Pokretnosti,Покретне ствари,"Monkey Shoulder 0,7l",https://eaukcija.sud.rs/#/aukcije/97934
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Bourbon Double Oak 0,7l",https://eaukcija.sud.rs/#/aukcije/97935
-2024-06-05,True,Панчево-град,11000.0,22000.0,50.0,Pokretnosti,Покретне ствари,"Ruski Standard 0,7l",https://eaukcija.sud.rs/#/aukcije/97936
-2024-06-05,True,Панчево-град,1350.0,2700.0,50.0,Pokretnosti,Покретне ствари,Simex Balkan 1l,https://eaukcija.sud.rs/#/aukcije/97937
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Džin, Finsbury London Dry Gin, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97938
-2024-06-05,True,Панчево-град,7800.0,15600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Drambuie, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97939
-2024-06-05,True,Панчево-град,9375.0,18750.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Green Melon, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97940
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Basilic, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97941
-2024-06-05,True,Панчево-град,3200.0,6400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Simex Kruškovac, 1l",https://eaukcija.sud.rs/#/aukcije/97942
-2024-06-05,True,Панчево-град,4550.0,9100.0,50.0,Pokretnosti,Покретне ствари,"ikeri, Bols Maraschino, 0,7l",https://eaukcija.sud.rs/#/aukcije/97943
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Baron De Ley Rioja 0,75l",https://eaukcija.sud.rs/#/aukcije/97944
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"D Santi Barbera 0,75l",https://eaukcija.sud.rs/#/aukcije/97945
-2024-06-05,True,Панчево-град,41700.0,83400.0,50.0,Pokretnosti,Покретне ствари,"Nikolas Wines Belo Vino+ 2 Čaše 0,75l",https://eaukcija.sud.rs/#/aukcije/97946
-2024-06-05,True,Панчево-град,54600.0,109200.0,50.0,Pokretnosti,Покретне ствари,"Tullamore Dew 0,7l",https://eaukcija.sud.rs/#/aukcije/97947
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Grants Woodford Reserve 0,7l",https://eaukcija.sud.rs/#/aukcije/97948
-2024-06-05,True,Панчево-град,9000.0,18000.0,50.0,Pokretnosti,Покретне ствари,"Martell Xo 0,7l",https://eaukcija.sud.rs/#/aukcije/97949
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"Keglevich, Mela Verde 0,7l",https://eaukcija.sud.rs/#/aukcije/97950
-2024-06-05,True,Панчево-град,1600.0,3200.0,50.0,Pokretnosti,Покретне ствари,"Finlandia Raltinum 0,7l",https://eaukcija.sud.rs/#/aukcije/97951
-2024-06-05,True,Панчево-град,4620.0,9240.0,50.0,Pokretnosti,Покретне ствари,"Džin, Rubin Dry Gin, 1l",https://eaukcija.sud.rs/#/aukcije/97952
-2024-06-05,True,Панчево-град,1600.0,3200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Blue Curacao 7, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97953
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Passion Fruit, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97954
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper Melon, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97955
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Impex Baba Višnja, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97956
-2024-06-05,True,Панчево-град,9750.0,19500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Zlatni Pelin + Čaše, 1l",https://eaukcija.sud.rs/#/aukcije/97957
-2024-06-05,True,Панчево-град,2750.0,5500.0,50.0,Pokretnosti,Покретне ствари,"Fiorelli Muscat Chardonnay  0,75l",https://eaukcija.sud.rs/#/aukcije/97958
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Skovin Suavignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/97959
-2024-06-05,True,Панчево-град,15400.0,30800.0,50.0,Pokretnosti,Покретне ствари,"Temet Ergo Belo 0,75l",https://eaukcija.sud.rs/#/aukcije/97960
-2024-06-05,True,Панчево-град,13500.0,27000.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Black Double Oak 0,7l",https://eaukcija.sud.rs/#/aukcije/97961
-2024-06-05,True,Панчево-град,5600.0,11200.0,50.0,Pokretnosti,Покретне ствари,"Label 5,  0,7l",https://eaukcija.sud.rs/#/aukcije/97962
-2024-06-05,True,Панчево-град,13050.0,26100.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Bourbon Viski Black 0,7l",https://eaukcija.sud.rs/#/aukcije/97963
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,Finlandia 1l,https://eaukcija.sud.rs/#/aukcije/97964
-2024-06-05,True,Панчево-град,795.0,1590.0,50.0,Pokretnosti,Покретне ствари,Netaknuta Priroda Balkan 1l,https://eaukcija.sud.rs/#/aukcije/97965
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Džin, Finsbury London Dry Gin, 1l",https://eaukcija.sud.rs/#/aukcije/97966
-2024-06-05,True,Панчево-град,2475.0,4950.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Becherovka Original, 0,7l",https://eaukcija.sud.rs/#/aukcije/97967
-2024-06-05,True,Панчево-град,5625.0,11250.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Cream De Cassis, 0,7l",https://eaukcija.sud.rs/#/aukcije/97968
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monini Lubenica, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97969
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Simex Pelinkovac, 0,5 l",https://eaukcija.sud.rs/#/aukcije/97970
-2024-06-05,True,Панчево-град,2600.0,5200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Bols Sour Apple, 0,7l",https://eaukcija.sud.rs/#/aukcije/97971
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Fiorelli Cabenet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/97972
-2024-06-05,True,Панчево-град,525.0,1050.0,50.0,Pokretnosti,Покретне ствари,"Skovin Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97973
-2024-06-05,True,Панчево-град,800.0,1600.0,50.0,Pokretnosti,Покретне ствари,"Ruffino Chianti 0,75l",https://eaukcija.sud.rs/#/aukcije/97974
-2024-06-05,True,Панчево-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Black Triple Aged 0,7l",https://eaukcija.sud.rs/#/aukcije/97975
-2024-06-05,True,Панчево-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,"Grants Family Reserved + 2 Čaše 0,7l",https://eaukcija.sud.rs/#/aukcije/97976
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Bourbon Viski+2 Čaše , 0,7l",https://eaukcija.sud.rs/#/aukcije/97977
-2024-06-05,True,Панчево-град,5250.0,10500.0,50.0,Pokretnosti,Покретне ствари,Finlandia Redberry 1l,https://eaukcija.sud.rs/#/aukcije/97978
-2024-06-05,True,Панчево-град,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,"Belvedere 0,7l",https://eaukcija.sud.rs/#/aukcije/97979
-2024-06-05,True,Панчево-град,5500.0,11000.0,50.0,Pokretnosti,Покретне ствари,"Džin, Plavi Gin, 1l",https://eaukcija.sud.rs/#/aukcije/97980
-2024-06-05,True,Панчево-град,11200.0,22400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Becherovka Lemond, 1 l",https://eaukcija.sud.rs/#/aukcije/97981
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Kiwi",https://eaukcija.sud.rs/#/aukcije/97982
-2024-06-05,True,Панчево-град,5750.0,11500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Aperol, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97983
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Keglevich Pure Vodka, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97984
-2024-06-05,True,Панчево-град,2600.0,5200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Bols Mango, 0,7l",https://eaukcija.sud.rs/#/aukcije/97985
-2024-06-05,True,Панчево-град,11000.0,22000.0,50.0,Pokretnosti,Покретне ствари,"Henkell Trocken, Penušavo Belo Polusuvo 0,75l",https://eaukcija.sud.rs/#/aukcije/97986
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Jacobs Creec Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/97987
-2024-06-05,True,Панчево-град,6800.0,13600.0,50.0,Pokretnosti,Покретне ствари,"Nikolas Wines Crno Vino + 2 Čaše 0,75l",https://eaukcija.sud.rs/#/aukcije/97988
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Grants Zeleni 0,7l",https://eaukcija.sud.rs/#/aukcije/97989
-2024-06-05,True,Панчево-град,25200.0,50400.0,50.0,Pokretnosti,Покретне ствари,Famous Grouse 1l,https://eaukcija.sud.rs/#/aukcije/97990
-2024-06-05,True,Панчево-град,1750.0,3500.0,50.0,Pokretnosti,Покретне ствари,"Dimple Blended 0,7l",https://eaukcija.sud.rs/#/aukcije/97991
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Puschkin Red Orange 0,7l",https://eaukcija.sud.rs/#/aukcije/97992
-2024-06-05,True,Панчево-град,5600.0,11200.0,50.0,Pokretnosti,Покретне ствари,"Finlandia Vodka Of Finland 0,7l",https://eaukcija.sud.rs/#/aukcije/97993
-2024-06-05,True,Панчево-град,1300.0,2600.0,50.0,Pokretnosti,Покретне ствари,"Džin, The Original Gordons London Dry Gin, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97994
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Amareto, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97995
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Grandine, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97996
-2024-06-05,True,Панчево-град,13300.0,26600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper Cream De Cassis, 0,7 l",https://eaukcija.sud.rs/#/aukcije/97997
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Impex Baba Mila",https://eaukcija.sud.rs/#/aukcije/97998
-2024-06-05,True,Панчево-град,46000.0,92000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Kamapri Milano, 1l",https://eaukcija.sud.rs/#/aukcije/97999
-2024-06-05,True,Панчево-град,12250.0,24500.0,50.0,Pokretnosti,Покретне ствари,"Fiorelli Muscat Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/98000
-2024-06-05,True,Панчево-град,8050.0,16100.0,50.0,Pokretnosti,Покретне ствари,"Toscana Vila Antinori 0,75l",https://eaukcija.sud.rs/#/aukcije/98001
-2024-06-05,True,Панчево-град,120.0,240.0,50.0,Pokretnosti,Покретне ствари,"Rose Nikolas 0,75l",https://eaukcija.sud.rs/#/aukcije/98002
-2024-06-05,True,Панчево-град,170.0,340.0,50.0,Pokretnosti,Покретне ствари,"Rubin Vinjak 0,1l",https://eaukcija.sud.rs/#/aukcije/98003
-2024-06-05,True,Панчево-град,21600.0,43200.0,50.0,Pokretnosti,Покретне ствари,"Grants Cask Edition 0,7l",https://eaukcija.sud.rs/#/aukcije/98004
-2024-06-05,True,Панчево-град,7750.0,15500.0,50.0,Pokretnosti,Покретне ствари,Jim Beam Bourbon Viski 1l,https://eaukcija.sud.rs/#/aukcije/98005
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Winchester 0,7l",https://eaukcija.sud.rs/#/aukcije/98006
-2024-06-05,True,Панчево-град,85400.0,170800.0,50.0,Pokretnosti,Покретне ствари,"Skyy Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98007
-2024-06-05,True,Панчево-град,1350.0,2700.0,50.0,Pokretnosti,Покретне ствари,"Keglevich Pure Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98008
-2024-06-05,True,Панчево-град,1100.0,2200.0,50.0,Pokretnosti,Покретне ствари,"Absint, Green Tree, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98009
-2024-06-05,True,Панчево-град,5400.0,10800.0,50.0,Pokretnosti,Покретне ствари,"Konjak, Martell Kgnac,0,7 l",https://eaukcija.sud.rs/#/aukcije/98010
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Cynar, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98011
-2024-06-05,True,Панчево-град,51850.0,103700.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Aperol, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98012
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Puker, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98013
-2024-06-05,True,Панчево-град,350.0,700.0,50.0,Pokretnosti,Покретне ствари,"Bostavan Cabernet Sauvignon, Red Dry 0,75l",https://eaukcija.sud.rs/#/aukcije/98014
-2024-06-05,True,Панчево-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,"Barpm De Ley Rioja 0,75l",https://eaukcija.sud.rs/#/aukcije/98015
-2024-06-05,True,Панчево-град,350.0,700.0,50.0,Pokretnosti,Покретне ствари,Fruškogorsko Vino Plemenika  1l,https://eaukcija.sud.rs/#/aukcije/98016
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Vršački Vinogradi Vinjak 0,75l",https://eaukcija.sud.rs/#/aukcije/98017
-2024-06-05,True,Панчево-град,74800.0,149600.0,50.0,Pokretnosti,Покретне ствари,"Grants Blendscotch 0,7l",https://eaukcija.sud.rs/#/aukcije/98018
-2024-06-05,True,Панчево-град,1600.0,3200.0,50.0,Pokretnosti,Покретне ствари,"Johny Walker 0,7l",https://eaukcija.sud.rs/#/aukcije/98019
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Burbon Triple Aged  0,7l",https://eaukcija.sud.rs/#/aukcije/98020
-2024-06-05,True,Панчево-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,"Xenia Pure Grain 0,7l",https://eaukcija.sud.rs/#/aukcije/98021
-2024-06-05,True,Панчево-град,9000.0,18000.0,50.0,Pokretnosti,Покретне ствари,"Campari, Davide Campari, 1 l",https://eaukcija.sud.rs/#/aukcije/98022
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Džin, London After Work, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98023
-2024-06-05,True,Панчево-град,3200.0,6400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Bols Vanilla, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98024
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Višnja, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98025
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Creme De Bananas, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98026
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Sourz Peach, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98027
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Polusuvo Belo Vino 0,187l",https://eaukcija.sud.rs/#/aukcije/98028
-2024-06-05,True,Панчево-град,3375.0,6750.0,50.0,Pokretnosti,Покретне ствари,"vino Zvonko Bogdan Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/98029
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"vino Povardarie Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/98030
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,"vino Jean D'Asoque Merlot 0,75l",https://eaukcija.sud.rs/#/aukcije/98031
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Ice Edition + 1Čaša 0,75l",https://eaukcija.sud.rs/#/aukcije/98032
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Merlot 0,187l",https://eaukcija.sud.rs/#/aukcije/98033
-2024-06-05,True,Панчево-град,1925.0,3850.0,50.0,Pokretnosti,Покретне ствари,Rubin Graševina Suvo Belo Vino 1l,https://eaukcija.sud.rs/#/aukcije/98034
-2024-06-05,True,Панчево-град,150.0,300.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Crnogorski Krstač 0,75l",https://eaukcija.sud.rs/#/aukcije/98035
-2024-06-05,True,Панчево-град,3850.0,7700.0,50.0,Pokretnosti,Покретне ствари,"Džin, Bleu D'Argent, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98036
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Strawberry, 0,7l",https://eaukcija.sud.rs/#/aukcije/98037
-2024-06-05,True,Панчево-град,7700.0,15400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Crna Riblizla, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98038
-2024-06-05,True,Панчево-град,2800.0,5600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper De Coco, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98039
-2024-06-05,True,Панчево-град,7700.0,15400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Impex Meduška, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98040
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Chardonnay Iz Moldavije 0,75l",https://eaukcija.sud.rs/#/aukcije/98041
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Graffigna Classico Chardonnay 0,75l",https://eaukcija.sud.rs/#/aukcije/98042
-2024-06-05,True,Панчево-град,3750.0,7500.0,50.0,Pokretnosti,Покретне ствари,"Orpheline  0,75l",https://eaukcija.sud.rs/#/aukcije/98043
-2024-06-05,True,Панчево-град,5700.0,11400.0,50.0,Pokretnosti,Покретне ствари,"Vršački Vinogradi Zlatni Vinjak  0,7l",https://eaukcija.sud.rs/#/aukcije/98044
-2024-06-05,True,Панчево-град,150.0,300.0,50.0,Pokretnosti,Покретне ствари,"Grants 0,05l",https://eaukcija.sud.rs/#/aukcije/98045
-2024-06-05,True,Панчево-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,"Long John 0,7l",https://eaukcija.sud.rs/#/aukcije/98046
-2024-06-05,True,Панчево-град,1150.0,2300.0,50.0,Pokretnosti,Покретне ствари,"Jim Beam Burbon 0,7l",https://eaukcija.sud.rs/#/aukcije/98047
-2024-06-05,True,Панчево-град,5500.0,11000.0,50.0,Pokretnosti,Покретне ствари,"Xenia Black 0,7l",https://eaukcija.sud.rs/#/aukcije/98048
-2024-06-05,True,Панчево-град,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,"Campari, Frattelli Campari Successori,, 07 l",https://eaukcija.sud.rs/#/aukcije/98049
-2024-06-05,True,Панчево-град,2200.0,4400.0,50.0,Pokretnosti,Покретне ствари,"Džin, London Dry D'Argent, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98050
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Bols Cherry Brandy, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98051
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Dinja, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98052
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Amareto, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98053
-2024-06-05,True,Панчево-град,7700.0,15400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Marie Brizard Shot Coconut, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98054
-2024-06-05,True,Панчево-град,1710.0,3420.0,50.0,Pokretnosti,Покретне ствари,"Summer Wine, Fruit Wine Blackberry , Gazirano 0,75l",https://eaukcija.sud.rs/#/aukcije/98055
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Santa Christina Crno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/98056
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"Vinex Grozd Zamfir, Crveno Vino + 2 Čaše",https://eaukcija.sud.rs/#/aukcije/98057
-2024-06-05,True,Панчево-град,1700.0,3400.0,50.0,Pokretnosti,Покретне ствари,"Grants Crveni 0,7l",https://eaukcija.sud.rs/#/aukcije/98058
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"Ballantines 0,7l",https://eaukcija.sud.rs/#/aukcije/98059
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Napoleon De France 0,7l",https://eaukcija.sud.rs/#/aukcije/98060
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Xenia Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98061
-2024-06-05,True,Панчево-град,2250.0,4500.0,50.0,Pokretnosti,Покретне ствари,"Džin, Hendrick'S Poklon Pakovanje, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98062
-2024-06-05,True,Панчево-град,8750.0,17500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Coconut, 0,7l",https://eaukcija.sud.rs/#/aukcije/98063
-2024-06-05,True,Панчево-град,3500.0,7000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Zelena Jabuka, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98064
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Strawberry, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98065
-2024-06-05,True,Панчево-град,15600.0,31200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Rubin 7 Cherry",https://eaukcija.sud.rs/#/aukcije/98066
-2024-06-05,True,Панчево-град,3500.0,7000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Charleston, 0,75l",https://eaukcija.sud.rs/#/aukcije/98067
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Puschkin, 0,7l",https://eaukcija.sud.rs/#/aukcije/98068
-2024-06-05,True,Панчево-град,2750.0,5500.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Aleksić Cabernet Sauvignon  0,75l",https://eaukcija.sud.rs/#/aukcije/98069
-2024-06-05,True,Панчево-град,4400.0,8800.0,50.0,Pokretnosti,Покретне ствари,"vino Vinarija Radovanović Sauvignon  0,75l",https://eaukcija.sud.rs/#/aukcije/98070
-2024-06-05,True,Панчево-град,900.0,1800.0,50.0,Pokretnosti,Покретне ствари,"vino De Delizia Merlot 0,75l",https://eaukcija.sud.rs/#/aukcije/98071
-2024-06-05,True,Панчево-град,27590.0,55180.0,50.0,Pokretnosti,Покретне ствари,"vino J.P. Chenet Grenache Cinsault  0,75l",https://eaukcija.sud.rs/#/aukcije/98072
-2024-06-05,True,Панчево-град,8525.0,17050.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Terra Lazarica Sauvignon Blanc 0,75l",https://eaukcija.sud.rs/#/aukcije/98073
-2024-06-05,True,Панчево-град,3825.0,7650.0,50.0,Pokretnosti,Покретне ствари,"vino Rubin Muskat 0,75l",https://eaukcija.sud.rs/#/aukcije/98074
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,Plantaže 13. Jul Podgoričko Bijelo Vino 1l,https://eaukcija.sud.rs/#/aukcije/98075
-2024-06-05,True,Панчево-град,6150.0,12300.0,50.0,Pokretnosti,Покретне ствари,"Džin, Hendrick'S , 0,7 l",https://eaukcija.sud.rs/#/aukcije/98076
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Banana, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98077
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Žuta Jabuka, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98078
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Wild Strawberry, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98079
-2024-06-05,True,Панчево-град,10200.0,20400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Rubin 7 Breskva, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98080
-2024-06-05,True,Панчево-град,3200.0,6400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Limuncini, 0,7l",https://eaukcija.sud.rs/#/aukcije/98081
-2024-06-05,True,Панчево-град,12600.0,25200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Passoa Brazil",https://eaukcija.sud.rs/#/aukcije/98082
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Gorky Liker Vino Župa, 1l",https://eaukcija.sud.rs/#/aukcije/98083
-2024-06-05,True,Панчево-град,2850.0,5700.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Jegermeister,0,7l",https://eaukcija.sud.rs/#/aukcije/98084
-2024-06-05,True,Панчево-град,650.0,1300.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Takovo, Rakija Dunja, 0,7l",https://eaukcija.sud.rs/#/aukcije/98085
-2024-06-05,True,Панчево-град,22050.0,44100.0,50.0,Pokretnosti,Покретне ствари,"vino Doja Chardonnay Pinot Grigio 0,75l",https://eaukcija.sud.rs/#/aukcije/98086
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,Fjodor Vodka 1l,https://eaukcija.sud.rs/#/aukcije/98087
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"Napoleon De France Spirit Drink 0,7l",https://eaukcija.sud.rs/#/aukcije/98088
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Unodrop, Smederevka 1l",https://eaukcija.sud.rs/#/aukcije/98089
-2024-06-05,True,Панчево-град,3450.0,6900.0,50.0,Pokretnosti,Покретне ствари,Rubin Xo Vinjak,https://eaukcija.sud.rs/#/aukcije/98090
-2024-06-05,True,Панчево-град,1100.0,2200.0,50.0,Pokretnosti,Покретне ствари,"Grants Family Reserve 0,7l",https://eaukcija.sud.rs/#/aukcije/98091
-2024-06-05,True,Панчево-град,1900.0,3800.0,50.0,Pokretnosti,Покретне ствари,"Hennessy Verspecial 0,7l",https://eaukcija.sud.rs/#/aukcije/98092
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Citrus Canadian 0,7l",https://eaukcija.sud.rs/#/aukcije/98093
-2024-06-05,True,Панчево-град,3520.0,7040.0,50.0,Pokretnosti,Покретне ствари,"Beefeater 0,05l",https://eaukcija.sud.rs/#/aukcije/98094
-2024-06-05,True,Панчево-град,400.0,800.0,50.0,Pokretnosti,Покретне ствари,Atlantic 1l,https://eaukcija.sud.rs/#/aukcije/98095
-2024-06-05,True,Панчево-град,3500.0,7000.0,50.0,Pokretnosti,Покретне ствари,"Absint, Mr Jakyll Absinth, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98096
-2024-06-05,True,Панчево-град,1900.0,3800.0,50.0,Pokretnosti,Покретне ствари,"Džin, Bankes London Dry Gin, 1l",https://eaukcija.sud.rs/#/aukcije/98097
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Žuti Med Šurlan, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98098
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Malina, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98099
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Marasquin, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98100
-2024-06-05,True,Панчево-град,1125.0,2250.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Or Coco, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98101
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Galliano, 0,7l",https://eaukcija.sud.rs/#/aukcije/98102
-2024-06-05,True,Панчево-град,75.0,150.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Gorki Vino Župa, 0,1l",https://eaukcija.sud.rs/#/aukcije/98103
-2024-06-05,True,Панчево-град,45.0,90.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Simex Pelinkovac, 0,1l",https://eaukcija.sud.rs/#/aukcije/98104
-2024-06-05,True,Панчево-град,28350.0,56700.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Remy Martin Vsop, 0,7l",https://eaukcija.sud.rs/#/aukcije/98105
-2024-06-05,True,Панчево-град,4350.0,8700.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Vranac 0,187l",https://eaukcija.sud.rs/#/aukcije/98106
-2024-06-05,True,Панчево-град,11100.0,22200.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Polusuvo Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/98107
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,"Wybrowa Pear 0,7l",https://eaukcija.sud.rs/#/aukcije/98108
-2024-06-05,True,Панчево-град,11250.0,22500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Passoa Passion Drink, 0,7l",https://eaukcija.sud.rs/#/aukcije/98109
-2024-06-05,True,Панчево-град,800.0,1600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Simex Pelinkovac, 1l",https://eaukcija.sud.rs/#/aukcije/98110
-2024-06-05,True,Панчево-град,14300.0,28600.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Jegermeister, 0,02l",https://eaukcija.sud.rs/#/aukcije/98111
-2024-06-05,True,Панчево-град,1950.0,3900.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Takovo, Rakija Kajsija, 0,7l",https://eaukcija.sud.rs/#/aukcije/98112
-2024-06-05,True,Панчево-град,46500.0,93000.0,50.0,Pokretnosti,Покретне ствари,"vino Doja Tamjanika 0,75l",https://eaukcija.sud.rs/#/aukcije/98113
-2024-06-05,True,Панчево-град,975.0,1950.0,50.0,Pokretnosti,Покретне ствари,"Fjodor Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98114
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Rose Rose, Suvo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/98115
-2024-06-05,True,Панчево-град,36000.0,72000.0,50.0,Pokretnosti,Покретне ствари,"Luis Max, Belo Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/98116
-2024-06-05,True,Панчево-град,1300.0,2600.0,50.0,Pokretnosti,Покретне ствари,Rubin Vinjak  1l,https://eaukcija.sud.rs/#/aukcije/98117
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"Grants Signature 0,7l",https://eaukcija.sud.rs/#/aukcije/98118
-2024-06-05,True,Панчево-град,1550.0,3100.0,50.0,Pokretnosti,Покретне ствари,Jim Beam Bourbon Viski 1l,https://eaukcija.sud.rs/#/aukcije/98119
-2024-06-05,True,Панчево-град,1100.0,2200.0,50.0,Pokretnosti,Покретне ствари,"Golden Arms 0,7l",https://eaukcija.sud.rs/#/aukcije/98120
-2024-06-05,True,Панчево-град,26000.0,52000.0,50.0,Pokretnosti,Покретне ствари,Skyy Vodka 1l,https://eaukcija.sud.rs/#/aukcije/98121
-2024-06-05,True,Панчево-град,325.0,650.0,50.0,Pokretnosti,Покретне ствари,Subotičanka 1l,https://eaukcija.sud.rs/#/aukcije/98122
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Absint, Absitin Fairy, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98123
-2024-06-05,True,Панчево-град,6750.0,13500.0,50.0,Pokretnosti,Покретне ствари,"Konjak, Courvoisier Vsop, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98124
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Charleston, 0,75 l",https://eaukcija.sud.rs/#/aukcije/98125
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Kokos, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98126
-2024-06-05,True,Панчево-град,4900.0,9800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Curacao",https://eaukcija.sud.rs/#/aukcije/98127
-2024-06-05,True,Панчево-град,6375.0,12750.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Or Cherry, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98128
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Passoa Exotic, 0,7l",https://eaukcija.sud.rs/#/aukcije/98129
-2024-06-05,True,Панчево-град,1800.0,3600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Impex Kruškovac, 1l",https://eaukcija.sud.rs/#/aukcije/98130
-2024-06-05,True,Панчево-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Gorki List, 0,7l",https://eaukcija.sud.rs/#/aukcije/98131
-2024-06-05,True,Панчево-град,1950.0,3900.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Simex, Rakija Dunja, 0,7l",https://eaukcija.sud.rs/#/aukcije/98132
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/98133
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Boris Jelzin Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98134
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Marie Brizard Shot Green Melon, 0,7l",https://eaukcija.sud.rs/#/aukcije/98135
-2024-06-05,True,Панчево-град,1050.0,2100.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Vino Župa Gorki Liker, 0,1l",https://eaukcija.sud.rs/#/aukcije/98136
-2024-06-05,True,Панчево-град,9350.0,18700.0,50.0,Pokretnosti,Покретне ствари,"Rakije, St Remy Vsop, 0,7l",https://eaukcija.sud.rs/#/aukcije/98137
-2024-06-05,True,Панчево-град,675.0,1350.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Crnogorski Chardonnay Barrique 0,75l",https://eaukcija.sud.rs/#/aukcije/98138
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Classic 0,187l",https://eaukcija.sud.rs/#/aukcije/98139
-2024-06-05,True,Панчево-град,4250.0,8500.0,50.0,Pokretnosti,Покретне ствари,"Vodka V, 1l",https://eaukcija.sud.rs/#/aukcije/98140
-2024-06-05,True,Панчево-град,24000.0,48000.0,50.0,Pokretnosti,Покретне ствари,Monkey 47 Dry Gin,https://eaukcija.sud.rs/#/aukcije/98141
-2024-06-05,True,Панчево-град,3800.0,7600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Metax Žuta 5 Stars, 0,7l",https://eaukcija.sud.rs/#/aukcije/98142
-2024-06-05,True,Панчево-град,150.0,300.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Simex Pelinkovac, 0,1 l",https://eaukcija.sud.rs/#/aukcije/98143
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"Ouzo Sans Rival, 0,7l",https://eaukcija.sud.rs/#/aukcije/98144
-2024-06-05,True,Панчево-град,5400.0,10800.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Rakija Mednica, Tatjana",https://eaukcija.sud.rs/#/aukcije/98145
-2024-06-05,True,Панчево-град,8010.0,16020.0,50.0,Pokretnosti,Покретне ствари,"vino Doja Prokupac Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/98146
-2024-06-05,True,Панчево-град,9000.0,18000.0,50.0,Pokretnosti,Покретне ствари,"Xellent, Swis Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98147
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Cointreau, 0,7l",https://eaukcija.sud.rs/#/aukcije/98148
-2024-06-05,True,Панчево-град,1150.0,2300.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Carolant Irish Cream, 1l",https://eaukcija.sud.rs/#/aukcije/98149
-2024-06-05,True,Панчево-град,9100.0,18200.0,50.0,Pokretnosti,Покретне ствари,"Pleinkovac, Vino Župa Gorki Liker, 1l",https://eaukcija.sud.rs/#/aukcije/98150
-2024-06-05,True,Панчево-град,8000.0,16000.0,50.0,Pokretnosti,Покретне ствари,"Rakije, St Remy Authentic, 0,7l",https://eaukcija.sud.rs/#/aukcije/98151
-2024-06-05,True,Панчево-град,2600.0,5200.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Classic 0,75l",https://eaukcija.sud.rs/#/aukcije/98152
-2024-06-05,True,Панчево-град,1350.0,2700.0,50.0,Pokretnosti,Покретне ствари,Baltic 1l,https://eaukcija.sud.rs/#/aukcije/98153
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"De Kuyper Coctel Syrup Grenandine 0,7l",https://eaukcija.sud.rs/#/aukcije/98154
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Metax Bronzana 7 Stars, 0,7l",https://eaukcija.sud.rs/#/aukcije/98155
-2024-06-05,True,Панчево-град,3125.0,6250.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Peach, 0,7l",https://eaukcija.sud.rs/#/aukcije/98156
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,Ouzo Mini,https://eaukcija.sud.rs/#/aukcije/98157
-2024-06-05,True,Панчево-град,1200.0,2400.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Dunjevača Rakija, Riznica, 0,7l",https://eaukcija.sud.rs/#/aukcije/98158
-2024-06-05,True,Панчево-град,81900.0,163800.0,50.0,Pokretnosti,Покретне ствари,"vino Doja Rose 0,75l",https://eaukcija.sud.rs/#/aukcije/98159
-2024-06-05,True,Панчево-град,450.0,900.0,50.0,Pokretnosti,Покретне ствари,"Keglevich  0,7l",https://eaukcija.sud.rs/#/aukcije/98160
-2024-06-05,True,Панчево-град,2000.0,4000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Molinari Sambuca Extra, 1l",https://eaukcija.sud.rs/#/aukcije/98161
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Marie Brizard Coconut, 0,7l",https://eaukcija.sud.rs/#/aukcije/98162
-2024-06-05,True,Панчево-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Rubin Gorka Tajna, 1l",https://eaukcija.sud.rs/#/aukcije/98163
-2024-06-05,True,Панчево-град,980.0,1960.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Invito, Medna Rosa , 0,7l",https://eaukcija.sud.rs/#/aukcije/98164
-2024-06-05,True,Панчево-град,10075.0,20150.0,50.0,Pokretnosti,Покретне ствари,Tikveš Aleksandrija Suvo Crveno Vino ,https://eaukcija.sud.rs/#/aukcije/98165
-2024-06-05,True,Панчево-град,750.0,1500.0,50.0,Pokretnosti,Покретне ствари,"Ursus Imported Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98166
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Bols Parafait Amor",https://eaukcija.sud.rs/#/aukcije/98167
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Metax Crveno Zlatna 7 Stars, 0,7l",https://eaukcija.sud.rs/#/aukcije/98168
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Blue Curacao, 0,7l",https://eaukcija.sud.rs/#/aukcije/98169
-2024-06-05,True,Панчево-град,14700.0,29400.0,50.0,Pokretnosti,Покретне ствари,Ouzo 12,https://eaukcija.sud.rs/#/aukcije/98170
-2024-06-05,True,Панчево-град,5950.0,11900.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Grozd Mastika, 1l",https://eaukcija.sud.rs/#/aukcije/98171
-2024-06-05,True,Панчево-град,159000.0,318000.0,50.0,Pokretnosti,Покретне ствари,"vino Doja Prokupac Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/98172
-2024-06-05,True,Панчево-град,3450.0,6900.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Carolant Irish Cream, 0,7l",https://eaukcija.sud.rs/#/aukcije/98173
-2024-06-05,True,Панчево-град,1050.0,2100.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Mistique Cherry, 0,7l",https://eaukcija.sud.rs/#/aukcije/98174
-2024-06-05,True,Панчево-град,1350.0,2700.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Kapetan Lađe, 1l",https://eaukcija.sud.rs/#/aukcije/98175
-2024-06-05,True,Панчево-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Rakija Kajsija, Manastir Kovilj, 0,7l",https://eaukcija.sud.rs/#/aukcije/98176
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Sasso Negro 0,75l",https://eaukcija.sud.rs/#/aukcije/98177
-2024-06-05,True,Панчево-град,5775.0,11550.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Kratošija Suvo Crveno Vino 0,75l",https://eaukcija.sud.rs/#/aukcije/98178
-2024-06-05,True,Панчево-град,38700.0,77400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Kampari Milano",https://eaukcija.sud.rs/#/aukcije/98179
-2024-06-05,True,Панчево-град,2400.0,4800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Teachers  Highland Cream, 1l",https://eaukcija.sud.rs/#/aukcije/98180
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Marie Brizard Strawberry, 0,7l",https://eaukcija.sud.rs/#/aukcije/98181
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Pelin Plg, 1l",https://eaukcija.sud.rs/#/aukcije/98182
-2024-06-05,True,Панчево-град,5200.0,10400.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Impex Doo, Kajsija Zlatna, 0,7l",https://eaukcija.sud.rs/#/aukcije/98183
-2024-06-05,True,Панчево-град,36800.0,73600.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Suvo Crveno Vino 0,187l",https://eaukcija.sud.rs/#/aukcije/98184
-2024-06-05,True,Панчево-град,4800.0,9600.0,50.0,Pokretnosti,Покретне ствари,Vino Župa Vodka 1l,https://eaukcija.sud.rs/#/aukcije/98185
-2024-06-05,True,Панчево-град,600.0,1200.0,50.0,Pokretnosti,Покретне ствари,"Puschkin Vodka 0,7l",https://eaukcija.sud.rs/#/aukcije/98186
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Ramazzoti Amaro Alsano, 0,7l",https://eaukcija.sud.rs/#/aukcije/98187
-2024-06-05,True,Панчево-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Volare Tripple Sec, 0,7l",https://eaukcija.sud.rs/#/aukcije/98188
-2024-06-05,True,Панчево-град,300.0,600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Boris Jelzin, 0,7l",https://eaukcija.sud.rs/#/aukcije/98189
-2024-06-05,True,Панчево-град,990.0,1980.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Medena Rosa, Dobra, 0,7l",https://eaukcija.sud.rs/#/aukcije/98190
-2024-06-05,True,Панчево-град,2200.0,4400.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Pinot Gringo 0,75l",https://eaukcija.sud.rs/#/aukcije/98191
-2024-06-05,True,Панчево-град,7425.0,14850.0,50.0,Pokretnosti,Покретне ствари,Tikveš Kratošija Suvo Crveno Vino 1l,https://eaukcija.sud.rs/#/aukcije/98192
-2024-06-05,True,Панчево-град,3850.0,7700.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Villa Cardea Limochelo, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98193
-2024-06-05,True,Панчево-град,260.0,520.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Yieltzin Strawberry Liquer, 0,7l ",https://eaukcija.sud.rs/#/aukcije/98194
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Flahov Gorki Biljni Liker, 1l",https://eaukcija.sud.rs/#/aukcije/98195
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Rakija Viljamovka, Manastir Kovilj, 0,7l",https://eaukcija.sud.rs/#/aukcije/98196
-2024-06-05,True,Панчево-град,43000.0,86000.0,50.0,Pokretnosti,Покретне ствари,"Rakije,  Remy Martin Xo Excellence, 0,7l",https://eaukcija.sud.rs/#/aukcije/98197
-2024-06-05,True,Панчево-град,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,vino Plantaže 13. Jul Luča  0.75l,https://eaukcija.sud.rs/#/aukcije/98198
-2024-06-05,True,Панчево-град,5600.0,11200.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Cabernet Sauvignon 0,75l",https://eaukcija.sud.rs/#/aukcije/98199
-2024-06-05,True,Панчево-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,"Pompero Anejo Blanco 0,7l",https://eaukcija.sud.rs/#/aukcije/98200
-2024-06-05,True,Панчево-град,3300.0,6600.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Villa Viola Sanbuca, 0,7l",https://eaukcija.sud.rs/#/aukcije/98201
-2024-06-05,True,Панчево-град,330.0,660.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Yieltzin Black Liquer, 0,7l",https://eaukcija.sud.rs/#/aukcije/98202
-2024-06-05,True,Панчево-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Peachtree Liker, 0,7l",https://eaukcija.sud.rs/#/aukcije/98203
-2024-06-05,True,Панчево-град,1445.0,2890.0,50.0,Pokretnosti,Покретне ствари,"Pelinkovac, Gorki List, 0,1l",https://eaukcija.sud.rs/#/aukcije/98204
-2024-06-05,True,Панчево-град,3250.0,6500.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Remy Martin Vsop +1 Čaša",https://eaukcija.sud.rs/#/aukcije/98205
-2024-06-05,True,Панчево-град,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Vranac 0,75l",https://eaukcija.sud.rs/#/aukcije/98206
-2024-06-05,True,Панчево-град,11000.0,22000.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Cuvee 0,75l",https://eaukcija.sud.rs/#/aukcije/98207
-2024-06-05,True,Панчево-град,28200.0,56400.0,50.0,Pokretnosti,Покретне ствари,"Roberto Cavalli, 0,7l",https://eaukcija.sud.rs/#/aukcije/98208
-2024-06-05,True,Панчево-град,200.0,400.0,50.0,Pokretnosti,Покретне ствари,"Cabernet Sauvignon, Vin De Masa Demidulece Rosu  1l",https://eaukcija.sud.rs/#/aukcije/98209
-2024-06-05,True,Панчево-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,"Unodrop, Rizling 0,75l",https://eaukcija.sud.rs/#/aukcije/98210
-2024-06-05,True,Панчево-град,12350.0,24700.0,50.0,Pokretnosti,Покретне ствари,"Rubin Vinjak 5, 0,7l",https://eaukcija.sud.rs/#/aukcije/98211
-2024-06-05,True,Панчево-град,4350.0,8700.0,50.0,Pokretnosti,Покретне ствари,"Grants Triple Wood 0,7l",https://eaukcija.sud.rs/#/aukcije/98212
-2024-06-05,True,Панчево-град,1000.0,2000.0,50.0,Pokretnosti,Покретне ствари,Johny Walker 1l,https://eaukcija.sud.rs/#/aukcije/98213
-2024-06-05,True,Панчево-град,4200.0,8400.0,50.0,Pokretnosti,Покретне ствари,"Glenmorangie 0,7l",https://eaukcija.sud.rs/#/aukcije/98214
-2024-06-05,True,Панчево-град,1035.0,2070.0,50.0,Pokretnosti,Покретне ствари,"Finlandia 0,05l",https://eaukcija.sud.rs/#/aukcije/98215
-2024-06-05,True,Панчево-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,"Campari, Davide Campari, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98216
-2024-06-05,True,Панчево-град,425.0,850.0,50.0,Pokretnosti,Покретне ствари,"Džin, Beefeater London Dry Gin , 0,375 l",https://eaukcija.sud.rs/#/aukcije/98217
-2024-06-05,True,Панчево-град,39000.0,78000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Posle Kiše Rubin, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98218
-2024-06-05,True,Панчево-град,2100.0,4200.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Monin Jagoda, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98219
-2024-06-05,True,Панчево-град,1400.0,2800.0,50.0,Pokretnosti,Покретне ствари,"Likeri, De Kuyper  Creme De Mente, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98220
-2024-06-05,True,Панчево-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Southern Comfort, 0,7 l",https://eaukcija.sud.rs/#/aukcije/98221
-2024-06-05,True,Панчево-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Tia Maria Sa Kafom, 0,7l",https://eaukcija.sud.rs/#/aukcije/98222
-2024-06-05,True,Панчево-град,6500.0,13000.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Archers Schnapps, 0,7l",https://eaukcija.sud.rs/#/aukcije/98223
-2024-06-05,True,Панчево-град,7200.0,14400.0,50.0,Pokretnosti,Покретне ствари,"Likeri, Baileys Original Irish Cream, 0,7l",https://eaukcija.sud.rs/#/aukcije/98224
-2024-06-05,True,Панчево-град,34500.0,69000.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Rakija Arkanj, Manastir Kovilj, 0,7l",https://eaukcija.sud.rs/#/aukcije/98225
-2024-06-05,True,Панчево-град,3600.0,7200.0,50.0,Pokretnosti,Покретне ствари,"Rakije, Remy Martin Maison Fondeen 1724, 0,7l",https://eaukcija.sud.rs/#/aukcije/98226
-2024-06-05,True,Панчево-град,3900.0,7800.0,50.0,Pokretnosti,Покретне ствари,"vino Plantaže 13. Jul Epoha 0,75l",https://eaukcija.sud.rs/#/aukcije/98227
-2024-06-05,True,Панчево-град,700.0,1400.0,50.0,Pokretnosti,Покретне ствари,"Tikveš Aleksandrija Rizling  0,2l",https://eaukcija.sud.rs/#/aukcije/98228
-2024-06-05,True,Панчево-град,6200.0,12400.0,50.0,Pokretnosti,Покретне ствари,"Ciroc 0,7l",https://eaukcija.sud.rs/#/aukcije/98229
-2024-06-05,False,Лесковац-град,70000.0,100000.0,70.0,Pokretnosti,Путничко возило или део,"путничко возило марке PEUGEOT, тип 406 2.0 HDI, ег.ознаке LE165-AE",https://eaukcija.sud.rs/#/aukcije/98238
-2024-06-05,False,Лесковац-град,140000.0,200000.0,70.0,Pokretnosti,Возило или део возила,"теретно возило марке RENAULT, тип KANGOO CONF",https://eaukcija.sud.rs/#/aukcije/98242
-2024-06-05,False,Бујановац,72208.5,103155.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 3. класе, улица Крушке, кп.бр.237, површине 897 м2, уписане у Листе непокретности бр.25 КО Левосоје,",https://eaukcija.sud.rs/#/aukcije/98272
-2024-06-05,False,Бујановац,54740.0,78200.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 2. класе, улица Задине, кп.бр. 371 површине 680 м2, улисане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98273
-2024-06-05,False,Бујановац,43550.5,62215.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 2. класе, улица Крушке, кп.бр.385, површине 541 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98274
-2024-06-05,False,Бујановац,62755.0,89650.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 3. класе, улица Слатина, кп.бр.730, површине 815 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98275
-2024-06-05,False,Бујановац,16100.0,23000.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 3. класе, улица Слатина, кп.бр. 828, број дела парцеле 1, површине 200 м2, уписане у Лист непокретности бр.25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98276
-2024-06-05,False,Бујановац,16261.0,23230.0,70.0,Nepokretnosti,Пољопривредно земљиште,"ливада 3. класе, улица Слатина, на кп.бр. 828, број дела парцеле 2, површине 202 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98278
-2024-06-05,False,Бујановац,29624.0,42320.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 2. класе, улица Крушке, кп.бр.880, површине 368 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98279
-2024-06-05,False,Бујановац,45864.0,65520.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 2. класе, улица Слатина, кп.бр. 961, површине 546 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98282
-2024-06-05,False,Бујановац,35497.0,50710.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 2. класе, улица Крушке, кп.бр. 1009, површине 461 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98284
-2024-06-05,False,Бујановац,235445.0,336350.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 1. класе, улица Село, кп.бр.1395, површине 961 м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98285
-2024-06-05,False,Бујановац,32466.0,46380.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 6. класе, улица Старо Лојзе, кп.бр.1743, број дела парцеле 1, површине 773м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98286
-2024-06-05,False,Бујановац,7056.0,10080.0,70.0,Nepokretnosti,Остало земљиште,"остало вештачки створено неплодно земљиште, улица Старо Лојзе, површине 252м2, на кп.бр. 1743, број дела парцеле 2, уписане у Лист непокретности бр.25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98287
-2024-06-05,False,Бујановац,40320.0,57600.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 6. класе, улица Врли Дол, кп.бр.2510, број дела парцеле 1, површине 768м2, уписане у Лист непокретности бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98288
-2024-06-05,False,Бујановац,3416.0,4880.0,70.0,Nepokretnosti,Остало земљиште,"остало вештачки створено неплодно земљиште, улица Врли Дол, на кп.бр. 2510, број дела парцеле 2, површине 122м2, уписано у Лист непокрености бр. 25 КО Левосоје",https://eaukcija.sud.rs/#/aukcije/98289
-2024-06-05,False,Бујановац,61005.0,87150.0,70.0,Nepokretnosti,Пољопривредно земљиште,"њива 6. класе, улица Врли Дол, кп.бр.2516, површине 1162м2, уписане у Лист непокретности бр.25 Ко Левосоје",https://eaukcija.sud.rs/#/aukcije/98290
-2024-06-05,False,Бујановац,182091.0,260130.0,70.0,Nepokretnosti,Пољопривредно земљиште,"пашњак 5. класе, улица Петраганка, кп.бр. 1550, површине 2262м2, уписане у Лист непокретности бр.186 КО Богдановац",https://eaukcija.sud.rs/#/aukcije/98291
-2024-06-05,False,Бујановац,3192.0,4560.0,70.0,Nepokretnosti,Пољопривредно земљиште,"пашњак 6. класе, улица Петраганка, кп.бр.3003, број дела парцеле 1, површине 76м2, уписане у Лист непокретности бр.186 КО Богдановац",https://eaukcija.sud.rs/#/aukcije/98292
-2024-06-05,False,Бујановац,17178.0,24540.0,70.0,Nepokretnosti,Шумско земљиште,"шума 3. класе улица Петраганка, кп.бр. 3003, број дела парцеле 2, површине 409м2, уписане у Лист непокретности бр. 186 КО Богдановац",https://eaukcija.sud.rs/#/aukcije/98293
-2024-06-05,False,Бујановац,169001.0,241430.0,70.0,Nepokretnosti,Шумско земљиште,"шума 3. класе, улиса Лештар, кп.бр. 3493, површине 3449м2, уписане у Лист непокрености бр. 186 КО Богдановац",https://eaukcija.sud.rs/#/aukcije/98294
-2024-06-05,False,Владичин Хан,10500.0,15000.0,70.0,Pokretnosti,Покретне ствари,Телевизор марке Vox црне боје 55 инча,https://eaukcija.sud.rs/#/aukcije/98305
-2024-06-05,False,Владичин Хан,2800.0,4000.0,70.0,Pokretnosti,Покретне ствари,Микроталасна пећница Gorenje црно беле боје,https://eaukcija.sud.rs/#/aukcije/98306
-2024-06-05,False,Владичин Хан,3500.0,5000.0,70.0,Pokretnosti,Покретне ствари,Клуб сто црне боје,https://eaukcija.sud.rs/#/aukcije/98307
-2024-06-05,False,Владичин Хан,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,Кухињски сто  са четири столице,https://eaukcija.sud.rs/#/aukcije/98308
-2024-06-05,True,Лазаревац,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,ЦИПЕЛАРНИК,https://eaukcija.sud.rs/#/aukcije/98407
-2024-06-05,True,Лазаревац,12000.0,24000.0,50.0,Pokretnosti,Покретне ствари,ТРПЕЗАРИЈСКЕ СТОЛИЦЕ ,https://eaukcija.sud.rs/#/aukcije/98408
-2024-06-05,True,Лазаревац,20000.0,40000.0,50.0,Pokretnosti,Покретне ствари,"ТЕЛЕВИЗОР ,,TESLA“ ",https://eaukcija.sud.rs/#/aukcije/98409
-2024-06-05,True,Лазаревац,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,ОРМАР- ГАРДЕРОБЕР -ДВОКРИЛНИ ,https://eaukcija.sud.rs/#/aukcije/98410
-2024-06-05,True,Лазаревац,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,ТРПЕЗАРИЈСКИ СТО  ,https://eaukcija.sud.rs/#/aukcije/98411
-2024-06-05,True,Лазаревац,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"ТЕЛЕВИЗОР ,,GRUNDIG“ ",https://eaukcija.sud.rs/#/aukcije/98412
-2024-06-05,True,Лазаревац,20000.0,40000.0,50.0,Pokretnosti,Покретне ствари,ТРОСЕД ,https://eaukcija.sud.rs/#/aukcije/98413
-2024-06-05,False,Шабац-град,6300.0,9000.0,70.0,Pokretnosti,Покретне ствари,FILIPS,https://eaukcija.sud.rs/#/aukcije/98488
-2024-06-05,False,Шабац-град,5600.0,8000.0,70.0,Pokretnosti,Покретне ствари,310L. OBODIN,https://eaukcija.sud.rs/#/aukcije/98489
-2024-06-05,False,Шабац-град,11200.0,16000.0,70.0,Pokretnosti,Покретне ствари,"BRAON BOJE, MASIVAN",https://eaukcija.sud.rs/#/aukcije/98490
-2024-06-05,False,Шабац-град,17500.0,25000.0,70.0,Pokretnosti,Покретне ствари,DRVENE SA NASLONOM BRAON BOJE,https://eaukcija.sud.rs/#/aukcije/98491
-2024-06-05,False,Шабац-град,21000.0,30000.0,70.0,Pokretnosti,Покретне ствари,BRAON BOJE,https://eaukcija.sud.rs/#/aukcije/98492
-2024-06-05,False,Шабац-град,4200.0,6000.0,70.0,Pokretnosti,Покретне ствари,SLOBODA ČAČAK,https://eaukcija.sud.rs/#/aukcije/98493
-2024-06-05,False,Шабац-град,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,KAUČ,https://eaukcija.sud.rs/#/aukcije/98494
-2024-06-05,False,Коцељева,42000.0,60000.0,70.0,Pokretnosti,Покретне ствари,FORD,https://eaukcija.sud.rs/#/aukcije/98495
-2024-06-05,False,Коцељева,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,AUTO PRIKOLICA,https://eaukcija.sud.rs/#/aukcije/98496
-2024-06-05,False,Коцељева,140000.0,200000.0,70.0,Pokretnosti,Покретне ствари,IMT 533,https://eaukcija.sud.rs/#/aukcije/98497
-2024-06-05,False,Лозница-град,171500.0,245000.0,70.0,Pokretnosti,Покретне ствари,FORD TDCI,https://eaukcija.sud.rs/#/aukcije/98498
-2024-06-05,False,Лозница-град,185372.75,264818.21,70.0,Nepokretnosti,Непокретности,KP 1012/2 KO JADRANSKA LEŠNICA,https://eaukcija.sud.rs/#/aukcije/98499
-2024-06-05,False,Лозница-град,1041696.42,1488137.74,70.0,Nepokretnosti,Непокретности,1250 PARCELA KO JADRANSKA LEŠNICA,https://eaukcija.sud.rs/#/aukcije/98500
-2024-06-05,False,Лозница-град,130417.11,186310.16,70.0,Nepokretnosti,Непокретности,1251/4,https://eaukcija.sud.rs/#/aukcije/98501
-2024-06-05,False,Лозница-град,18865.37,26950.53,70.0,Nepokretnosti,Непокретности,1253/3 KO JADRANSKA LEŠNICA,https://eaukcija.sud.rs/#/aukcije/98502
-2024-06-05,False,Мали Зворник,700.0,1000.0,70.0,Pokretnosti,Покретне ствари,TOSHIBA,https://eaukcija.sud.rs/#/aukcije/98503
-2024-06-05,False,Мали Зворник,2800.0,4000.0,70.0,Pokretnosti,Покретне ствари,STO I DVE STOLICE,https://eaukcija.sud.rs/#/aukcije/98504
-2024-06-05,False,Шабац-град,2800.0,4000.0,70.0,Pokretnosti,Покретне ствари,DRVENA,https://eaukcija.sud.rs/#/aukcije/98505
-2024-06-05,False,Мали Зворник,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,RAGAL,https://eaukcija.sud.rs/#/aukcije/98506
-2024-06-05,False,Мали Зворник,14000.0,20000.0,70.0,Pokretnosti,Покретне ствари,GORENJE,https://eaukcija.sud.rs/#/aukcije/98507
-2024-06-05,False,Мали Зворник,5600.0,8000.0,70.0,Pokretnosti,Покретне ствари,AEG,https://eaukcija.sud.rs/#/aukcije/98508
-2024-06-05,False,Мали Зворник,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,VIVAX,https://eaukcija.sud.rs/#/aukcije/98509
-2024-06-05,False,Мали Зворник,3500.0,5000.0,70.0,Pokretnosti,Покретне ствари,STO I STOLICE,https://eaukcija.sud.rs/#/aukcije/98510
-2024-06-05,False,Мали Зворник,175000.0,250000.0,70.0,Pokretnosti,Покретне ствари,IMT,https://eaukcija.sud.rs/#/aukcije/98511
-2024-06-05,False,Мали Зворник,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,CREP,https://eaukcija.sud.rs/#/aukcije/98512
-2024-06-05,False,Мали Зворник,4200.0,6000.0,70.0,Pokretnosti,Покретне ствари,CIGLA,https://eaukcija.sud.rs/#/aukcije/98513
-2024-06-05,False,Мали Зворник,5950.0,8500.0,70.0,Pokretnosti,Покретне ствари,8 DZAKOVA CEMENTA,https://eaukcija.sud.rs/#/aukcije/98514
-2024-06-05,False,Мали Зворник,28000.0,40000.0,70.0,Pokretnosti,Покретне ствари,GREDE,https://eaukcija.sud.rs/#/aukcije/98515
-2024-06-05,False,Љубовија,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,TRODELNI,https://eaukcija.sud.rs/#/aukcije/98516
-2024-06-05,False,Љубовија,5600.0,8000.0,70.0,Pokretnosti,Покретне ствари,310L,https://eaukcija.sud.rs/#/aukcije/98517
-2024-06-05,False,Љубовија,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,LEZAJ,https://eaukcija.sud.rs/#/aukcije/98518
-2024-06-05,False,Љубовија,7700.0,11000.0,70.0,Pokretnosti,Покретне ствари,BUŠILICA,https://eaukcija.sud.rs/#/aukcije/98519
-2024-06-05,False,Мали Зворник,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,SAMSUNG,https://eaukcija.sud.rs/#/aukcije/98520
-2024-06-05,False,Љубовија,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,DVODELNA,https://eaukcija.sud.rs/#/aukcije/98521
-2024-06-05,False,Мали Зворник,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,DRVENE,https://eaukcija.sud.rs/#/aukcije/98522
-2024-06-05,False,Крупањ,863761.5,1233945.0,70.0,Nepokretnosti,Непокретности,"UDEO OD 1/2, KP 969 KO KRUPANJ",https://eaukcija.sud.rs/#/aukcije/98523
-2024-06-05,False,Шабац-град,17500.0,25000.0,70.0,Pokretnosti,Покретне ствари,LENINO,https://eaukcija.sud.rs/#/aukcije/98524
-2024-06-05,False,Шабац-град,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,LG,https://eaukcija.sud.rs/#/aukcije/98525
-2024-06-05,False,Шабац-град,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,STO I STOLICE,https://eaukcija.sud.rs/#/aukcije/98526
-2024-06-05,False,Шабац-град,14000.0,20000.0,70.0,Pokretnosti,Покретне ствари,GREE,https://eaukcija.sud.rs/#/aukcije/98527
-2024-06-05,False,Шабац-град,42000.0,60000.0,70.0,Pokretnosti,Покретне ствари,POLICE,https://eaukcija.sud.rs/#/aukcije/98528
-2024-06-05,False,Шабац-град,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,FOX,https://eaukcija.sud.rs/#/aukcije/98529
-2024-06-05,True,Панчево-град,1969440.5,3938881.0,50.0,Nepokretnosti,Непокретности,"Катастарска парцела бр. 11955/1, њива 1.класе, градско грађевинско земљиште, површине 2241 м2, улица Шарпланинска, КО Панчево, лист непокретности бр. 10606",https://eaukcija.sud.rs/#/aukcije/98706
-2024-06-05,False,Ковачица,2837800.0,4054000.0,70.0,Nepokretnosti,Непокретности,"Парцела бр. 240-градско грађевинско земљиште, укупне површине 545м/2, ул. Михајла Пупина, описана и уписана у Листу непокретности бр. 4413, КО Ковачица, обим удела: 1/1;
-
-•	Објекат описан као породична стамбена зграда, површине 91м/2, са земљиштем под зградом и другим објектом, ул. Михајла Пупина бр. 64, постојећ на парцели бр. 240, бр. дела парцеле: 1, описана и уписана у Листу непокретности бр. 4413, КО Ковачица, обим удела: 1/1;
-
-•	Објекат описан као помоћна зграда, површине 6м/2, са земљиштем под зградом и другим објектом, ул. Михајла Пупина, постојећа на парцели бр. 240, бр. дела парцеле: 2, описана и уписана у Листу непокретности бр. 4413, КО Ковачица, обим удела: 1/1;
-
-•	Објекат описан као помоћна зграда, површине 7м/2, са земљиштем под зградом и другим објектом, ул. Михајла Пупина, постојећа на парцели бр. 240, бр. дела парцеле: 3, описана и уписана у Листу непокретности бр. 4413, КО Ковачица, обим удела: 1/1;
-
-•	Објекат описан као помоћна зграда, површине 11м/2, са земљиште",https://eaukcija.sud.rs/#/aukcije/98707
-2024-06-05,True,Ражањ,222300.0,444600.0,50.0,Pokretnosti,Путничко возило или део,"Моторно возило марке ""HYUNDAI SANTA FE"" рег. ознака NI314-DF Број шасије (Е): KMHSC81VP2U327270 Број мотора (П5): D4EA2972549, датум важења регистрације возила: 02.08.2022. године",https://eaukcija.sud.rs/#/aukcije/98794
-2024-06-05,True,Медиана,175500.0,351000.0,50.0,Pokretnosti,Путничко возило или део,"Моторно возило марке ""DAIMLER CHRYSLER E200"" бр. регистрације: NI937-TX, број шасије: WDB2100481B176643",https://eaukcija.sud.rs/#/aukcije/98795
-2024-06-05,False,Ириг,14000.0,20000.0,70.0,Pokretnosti,Остала покретна имовина,"- “VIVAX” клима уређај, комада један, процењена вредност износи 20.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/98850
-2024-06-05,False,Ириг,21000.0,30000.0,70.0,Pokretnosti,Остала покретна имовина,"“VIVAX” телевизор, комада један, процењена вредност износи 30.000,00 динара, а почетна цена чини 70% процењене вредности и износи 21.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/98851
-2024-06-05,False,Ириг,14000.0,20000.0,70.0,Pokretnosti,Остала покретна имовина,"“BEKO”, машина за судове, комада један, процењена тржишна вредности 20.000,00 динара, а почетна цена чини 70% процењене вредности и износи 14.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/98852
-2024-06-05,False,Ириг,4900.0,7000.0,70.0,Pokretnosti,Остала покретна имовина,"-“VOX” микроталасна, комада један, процењена вредност износи 7.000,00 динара, а почетна цена чини 70% процењене вредности и износи 4.900,00 динара,",https://eaukcija.sud.rs/#/aukcije/98853
-2024-06-05,False,Ириг,17500.0,25000.0,70.0,Pokretnosti,Остала покретна имовина," “VOX” машина за веш, комада један, процењена тржишна вредност 25.000,00 динара, а почетна цена чини 70% процењене вредности и износи 17.500,00 динара,",https://eaukcija.sud.rs/#/aukcije/98854
-2024-06-05,False,Ириг,21000.0,30000.0,70.0,Pokretnosti,Остала покретна имовина,"“BEKO” машина за сушење веша, комада један, процењена тржишна вредност 30.000,00 динара, а почетна цена чини 70% процењене вредности и 21.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/98855
-2024-06-05,False,Ириг,28000.0,40000.0,70.0,Pokretnosti,Остала покретна имовина,"“LENOVO” лаптоп, комада један, процењена тржишна вредност 40.000,00 динара а почетна цена чини 70% процењене вредности и износи 28.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/98856
-2024-06-05,False,Ириг,5600.0,8000.0,70.0,Pokretnosti,Остала покретна имовина,"“SILVER CREST” ручни усисивач, комада један, процењена тржишна вредност 8.000,00 динара а почетна цена чини 70% процењене вредности и износи 5.600,00 динара,",https://eaukcija.sud.rs/#/aukcije/98857
-2024-06-05,False,Ириг,17500.0,25000.0,70.0,Pokretnosti,Остала покретна имовина,"“ALPHA” телевизор, комада један, процењена тржишна вредност 25.000,00 динара, а почетна цена чини 70% процењене вредности и износи 17.500,00 динара,",https://eaukcija.sud.rs/#/aukcije/98858
-2024-06-05,False,Ириг,8400.0,12000.0,70.0,Pokretnosti,Остала покретна имовина,"HP” штампач, комада један, процењена тржишна вредност 12.000,00 динара, а почетна цена чини 70% процењене вредности и износи 8.400,00 динара.",https://eaukcija.sud.rs/#/aukcije/98859
 2024-06-06,True,Ваљево-град,60417.7,86311.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Пољопривредно земљиште, пашњак 5. класе,  број дела 1, површине 920 м2",https://eaukcija.sud.rs/#/aukcije/97190
 2024-06-06,True,Ваљево-град,104418.3,149169.0,70.0,Nepokretnosti,Шумско земљиште,"Шумско земљиште, шума 5. класе,  број дела 1, површине 1060 м2",https://eaukcija.sud.rs/#/aukcije/97192
 2024-06-06,True,Ваљево-град,75053.5,150107.0,50.0,Nepokretnosti,Пољопривредно земљиште,"Пољопривредно земљиште, њива 7. класе",https://eaukcija.sud.rs/#/aukcije/97197
@@ -988,18 +128,6 @@ Datum,Ponovljena,Opstina,Pocetna Cena,Procenjena Vrednost,%,Tip,Kategorija,Opis,
 2024-06-06,True,Ариље,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,"беле боје, пописна маркица бр. 001650",https://eaukcija.sud.rs/#/aukcije/98250
 2024-06-06,True,Нови Сад - град,3457612.4,6915224.8,50.0,Nepokretnosti,Кућа,"породична стамбена зграда у уделу 1/4, и катастарска парцела 5291/2 КО Сремска Камеица у уделу 1/4",https://eaukcija.sud.rs/#/aukcije/98254
 2024-06-06,False,Смедеревска Паланка,738217.9,1054597.0,70.0,Nepokretnosti,Непокретности,непокретности ,https://eaukcija.sud.rs/#/aukcije/98258
-2024-06-06,False,Ада,697232.59,996046.55,70.0,Nepokretnosti,Пољопривредно земљиште,површина 10085м2,https://eaukcija.sud.rs/#/aukcije/98277
-2024-06-06,False,Ада,838616.23,1198023.18,70.0,Nepokretnosti,Пољопривредно земљиште,11388м2,https://eaukcija.sud.rs/#/aukcije/98281
-2024-06-06,False,Ада,670421.68,957745.26,70.0,Nepokretnosti,Пољопривредно земљиште,4552м2,https://eaukcija.sud.rs/#/aukcije/98283
-2024-06-06,False,Сурдулица,700.0,1000.0,70.0,Pokretnosti,Покретне ствари,Дечији тротинет 1 комад,https://eaukcija.sud.rs/#/aukcije/98318
-2024-06-06,False,Сурдулица,840.0,1200.0,70.0,Pokretnosti,Покретне ствари,Моталица са продужним кабхлом 1 комад ,https://eaukcija.sud.rs/#/aukcije/98319
-2024-06-06,False,Сурдулица,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,Веш машина марке Eida 1 комад,https://eaukcija.sud.rs/#/aukcije/98320
-2024-06-06,False,Сурдулица,4200.0,6000.0,70.0,Pokretnosti,Покретне ствари,Бојлер марке Magrohom 1комад,https://eaukcija.sud.rs/#/aukcije/98321
-2024-06-06,False,Сурдулица,1750.0,2500.0,70.0,Pokretnosti,Покретне ствари,Лавабо са огледалом,https://eaukcija.sud.rs/#/aukcije/98322
-2024-06-06,False,Сурдулица,1400.0,2000.0,70.0,Pokretnosti,Покретне ствари,WC шоља са казанчетом,https://eaukcija.sud.rs/#/aukcije/98323
-2024-06-06,False,Сурдулица,1050.0,1500.0,70.0,Pokretnosti,Покретне ствари,Туш кабина са пластифицираном завесом,https://eaukcija.sud.rs/#/aukcije/98324
-2024-06-06,False,Сурдулица,2100.0,3000.0,70.0,Pokretnosti,Покретне ствари,Стаклена вуна у џаковима,https://eaukcija.sud.rs/#/aukcije/98325
-2024-06-06,False,Сурдулица,140.0,200.0,70.0,Pokretnosti,Покретне ствари,Антена за Тв пријемник,https://eaukcija.sud.rs/#/aukcije/98326
 2024-06-06,True,Параћин,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,"марка BEKO, беле боје",https://eaukcija.sud.rs/#/aukcije/98401
 2024-06-06,True,Параћин,8000.0,16000.0,50.0,Pokretnosti,Покретне ствари,"марка BEKO, беле боје",https://eaukcija.sud.rs/#/aukcije/98402
 2024-06-06,True,Параћин,7000.0,14000.0,50.0,Pokretnosti,Покретне ствари,"марка BEKO, беле боје",https://eaukcija.sud.rs/#/aukcije/98403
@@ -3712,6 +2840,8 @@ objekat ima odobrenje za gradnju ",https://eaukcija.sud.rs/#/aukcije/100364
 2024-06-27,False,Бујановац,566650.0,809500.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Кат. парцела бр.1201 КО Божињевац I, потес: Старо Лојзе, по култури виноград 3. класе, површине 1619 м2, у приватној својини извршног дужника са обимом удела 1/1, уписана у Листу непокретсности бр. 293 КО Божињевац I, општина Бујановац.
 ",https://eaukcija.sud.rs/#/aukcije/100673
 2024-06-27,False,Бујановац,535500.0,765000.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Кат. парцела бр. 1585/1 КО Левосоје, потес: Кука, по култури њива 3, класе површине 765 м2, у приватној својини извршног дужника са обимом удела 1/1, уписанa у Листу непокретсности бр. 342 КО Левосоје, општина Бујановац.",https://eaukcija.sud.rs/#/aukcije/100674
+2024-06-27,False,Чачак-град,182000.0,260000.0,70.0,Pokretnosti,Остало возило или део,"ТЕРЕТНО ВОЗИЛО, FIAT DUCATO 23OL 142.8JT, РЕГИСТРАСКЕ ОЗНАКЕ ČA148-PV, РЕГИСТРОВАНО ДО 4.4.2024. ГОДИНЕ, БЕЛЕ БОЈЕ, ГОДИНА ПРОИЗВОДЊЕ 2001.
+БРОЈ ШАСИЈЕ ZFA23000006125991, ГОРИВО ДИЗЕЛ",https://eaukcija.sud.rs/#/aukcije/100801
 2024-06-27,True,Алибунар,522953.0,1045906.0,50.0,Nepokretnosti,Пољопривредно земљиште,"
         кат.парц. бр.3575 Ћалу маре ,  њива , површине 5395 м2-
         кат.парц. бр.4550 Долу букур  ,  њива , површине 2597 м2-
@@ -3720,6 +2850,7 @@ objekat ima odobrenje za gradnju ",https://eaukcija.sud.rs/#/aukcije/100364
      - СВЕ уписане у Листу непокретности бр.1108 КО Селеуш , у власништву извршног дужника са уделом од 3/4 дела и то",https://eaukcija.sud.rs/#/aukcije/100807
 2024-06-27,False,Шабац-град,38500.0,55000.0,70.0,Pokretnosti,Покретне ствари,ZA TRAKTOR,https://eaukcija.sud.rs/#/aukcije/100843
 2024-06-27,False,Шабац-град,12600.0,18000.0,70.0,Pokretnosti,Покретне ствари,SAMOGRADNJA,https://eaukcija.sud.rs/#/aukcije/100844
+2024-06-27,False,Панчево-град,371000.0,530000.0,70.0,Pokretnosti,Путничко возило или део,"путничко возило марке и типа: DACIA NOVI SANDERO AMBIANCE 1,5 DCI, број шасије (Е): UU15SDA4449643788, година производње: 2013, регистарске ознаке PA142-HF, датум важења регистрације возила: 11.09.2024. године",https://eaukcija.sud.rs/#/aukcije/100957
 2024-06-28,False,Свилајнац,14000.0,20000.0,70.0,Pokretnosti,Остала опрема или деоо,Дрвена витрина са стакленим делом,https://eaukcija.sud.rs/#/aukcije/99756
 2024-06-28,False,Свилајнац,31500.0,45000.0,70.0,Pokretnosti,Оруђе и алат,Абрихтер,https://eaukcija.sud.rs/#/aukcije/99757
 2024-06-28,False,Свилајнац,28000.0,40000.0,70.0,Pokretnosti,Оруђе и алат,Циркулар,https://eaukcija.sud.rs/#/aukcije/99758
@@ -3897,12 +3028,23 @@ objekat ima odobrenje za gradnju ",https://eaukcija.sud.rs/#/aukcije/100364
 2024-07-02,False,Сурдулица,191940.0,274200.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Пашњак 3. класе, ул. Старо Гувно, површине 685 м2, у приватној својини извршног дужника са уделом од 2/3, лист непокретности: 4434, кп. бр. 4618, општина Сурдулица, КО Сурдулица",https://eaukcija.sud.rs/#/aukcije/100787
 2024-07-02,False,Сремска Митровица-град,114804.45,164006.36,70.0,Nepokretnosti,Остало земљиште,"Парцела бр. 2739 К.О. Засавица, потес/улица Село, њива 3. класе, површине 1138м2, земљиште у грађевинском подручју.
 ",https://eaukcija.sud.rs/#/aukcije/100788
+2024-07-02,False,Сремска Митровица-град,1566000.8,2237144.0,70.0,Nepokretnosti,Парцела,"-непокретности уписане у лист непокретности број 1142 К.О. Јарак, ул. Кудошка бр. 72, породична стамбена зграда, површине 55 м2, на парцели број 766/5, број дела 1,
+-непокретности уписане у лист непокретности број 1142 К.О. Јарак, ул. Кудошка, земљиште под зградом и другим објектом, површине 55 м2, на парцели број 766/5, број дела 1,
+-непокретности уписане у лист непокретности број 1142 К.О. Јарак, ул. Кудошка, земљиште уз зграду и други објект, површине 500 м2, на парцели број 766/5, број дела 2,
+-непокретности уписане у лист непокретности број 1142 К.О. Јарак, ул. Кудошка, њива 2. класе, бр. дела 3",https://eaukcija.sud.rs/#/aukcije/100802
 2024-07-02,True,Нови Сад - град,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,машина за прање веша,https://eaukcija.sud.rs/#/aukcije/100808
 2024-07-02,True,Нови Сад - град,7500.0,15000.0,50.0,Pokretnosti,Намештај,ормар,https://eaukcija.sud.rs/#/aukcije/100809
 2024-07-02,True,Нови Сад - град,7500.0,15000.0,50.0,Pokretnosti,Намештај,ормар,https://eaukcija.sud.rs/#/aukcije/100810
 2024-07-02,True,Нови Сад - град,12500.0,25000.0,50.0,Pokretnosti,Покретне ствари,телевизор,https://eaukcija.sud.rs/#/aukcije/100811
 2024-07-02,True,Нови Сад - град,5000.0,10000.0,50.0,Pokretnosti,Намештај,ормар,https://eaukcija.sud.rs/#/aukcije/100812
 2024-07-02,True,Нови Сад - град,20000.0,40000.0,50.0,Pokretnosti,Намештај,гарнитура за седење,https://eaukcija.sud.rs/#/aukcije/100813
+2024-07-02,False,Шабац-град,14000.0,20000.0,70.0,Pokretnosti,Остала покретна имовина,"Веш машина ,,BEKO''",https://eaukcija.sud.rs/#/aukcije/100846
+2024-07-02,False,Шабац-град,17500.0,25000.0,70.0,Pokretnosti,Остала покретна имовина,"ТВ LCD ,,VOX''",https://eaukcija.sud.rs/#/aukcije/100847
+2024-07-02,False,Шабац-град,3500.0,5000.0,70.0,Pokretnosti,Остала покретна имовина,Клуб сто,https://eaukcija.sud.rs/#/aukcije/100848
+2024-07-02,False,Шабац-град,10500.0,15000.0,70.0,Pokretnosti,Остала покретна имовина,Трпезаријски сто,https://eaukcija.sud.rs/#/aukcije/100849
+2024-07-02,False,Шабац-град,6300.0,9000.0,70.0,Pokretnosti,Остала покретна имовина,Трпезаријске столице,https://eaukcija.sud.rs/#/aukcije/100850
+2024-07-02,False,Шабац-град,14000.0,20000.0,70.0,Pokretnosti,Остала покретна имовина,Угаона гарнитура,https://eaukcija.sud.rs/#/aukcije/100851
+2024-07-02,True,Палилула,14917517.5,29835035.0,50.0,Nepokretnosti,Стан,"Стан бр.15 који се налази у стамбеној згради у ул. Старине Новака бр. 6, дуплекс по структури,  у поткровљу са галеријом и терасом, а  према извештају проценитеља укупне површине 106 м2 (поткровље 74 м2 + галерија 32м2)  који се налази на кат.парцели  бр. 1833/3  КО Палилула, зграда бр. 1",https://eaukcija.sud.rs/#/aukcije/100873
 2024-07-03,False,Јагодина-град,11900.0,17000.0,70.0,Pokretnosti,Намештај,Угаона гарнитура црна,https://eaukcija.sud.rs/#/aukcije/100502
 2024-07-03,False,Јагодина-град,9800.0,14000.0,70.0,Pokretnosti,Остала опрема или деоо,Машина за судове бела VOX LC 2145,https://eaukcija.sud.rs/#/aukcije/100503
 2024-07-03,False,Јагодина-град,3500.0,5000.0,70.0,Pokretnosti,Намештај,Полица за телевизор са стакленим делом,https://eaukcija.sud.rs/#/aukcije/100504
@@ -3927,6 +3069,36 @@ objekat ima odobrenje za gradnju ",https://eaukcija.sud.rs/#/aukcije/100364
 2024-07-03,False,Сремска Митровица-град,602443.8,860634.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Парцела број 4514 КО Равње, потес Широка бара, пољопривредно земљиште, укупне површине 7138м2, број дела 1, површине 5293м2, њива 3. класе, број дела 2, површине 1845м2, њива 4. класе",https://eaukcija.sud.rs/#/aukcije/100820
 2024-07-03,False,Савски Венац,2555000.0,3650000.0,70.0,Pokretnosti,Путничко возило или део,Моторно возило Mercedes - Benz GLC 220 D 4 MATIC 2017. годиште,https://eaukcija.sud.rs/#/aukcije/100841
 2024-07-03,True,Суботица-град,2928087.5,5856175.0,50.0,Nepokretnosti,Кућа,"Породична стамбена зграда у Суботици, удео припада извршном дужнику",https://eaukcija.sud.rs/#/aukcije/100842
+2024-07-03,False,Мало Црниће,24606.4,35152.0,70.0,Nepokretnosti,Пољопривредно земљиште,"5.КЛАСЕ, КО ЦРЉЕНАЦ",https://eaukcija.sud.rs/#/aukcije/100845
+2024-07-03,False,Ириг,14000.0,20000.0,70.0,Pokretnosti,Покретне ствари," “VIVAX” клима уређај, комада један, процењена вредност износи 20.000,00 динара, а почетна цена чини 70% процењене вредности и износи 14.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/100857
+2024-07-03,False,Ириг,21000.0,30000.0,70.0,Pokretnosti,Покретне ствари,"- “VIVAX” телевизор, комада један, процењена вредност износи 30.000,00 динара, а почетна цена чини 70% процењене вредности и износи 21.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/100858
+2024-07-03,False,Ириг,14000.0,20000.0,70.0,Pokretnosti,Покретне ствари,"BEKO”, машина за судове, комада један, процењена тржишна вредности 20.000,00 динара, а почетна цена чини 70% процењене вредности и износи 14.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/100859
+2024-07-03,False,Ириг,4900.0,7000.0,70.0,Pokretnosti,Покретне ствари,"- “VOX” микроталасна, комада један, процењена вредност износи 7.000,00 динара, а почетна цена чини 70% процењене вредности и износи 4.900,00 динара,",https://eaukcija.sud.rs/#/aukcije/100860
+2024-07-03,False,Ириг,17500.0,25000.0,70.0,Pokretnosti,Покретне ствари,"- “VOX” машина за веш, комада један, процењена тржишна вредност 25.000,00 динара, а почетна цена чини 70% процењене вредности и износи 17.500,00 динара,",https://eaukcija.sud.rs/#/aukcije/100861
+2024-07-03,False,Ириг,21000.0,30000.0,70.0,Pokretnosti,Покретне ствари,"- “BEKO” машина за сушење веша, комада један, процењена тржишна вредност 30.000,00 динара, а почетна цена чини 70% процењене вредности и 21.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/100862
+2024-07-03,False,Ириг,28000.0,40000.0,70.0,Pokretnosti,Покретне ствари,"“LENOVO” лаптоп, комада један, процењена тржишна вредност 40.000,00 динара а почетна цена чини 70% процењене вредности и износи 28.000,00 динара,",https://eaukcija.sud.rs/#/aukcije/100863
+2024-07-03,False,Ириг,5600.0,8000.0,70.0,Pokretnosti,Покретне ствари,"“SILVER CREST” ручни усисивач, комада један, процењена тржишна вредност 8.000,00 динара а почетна цена чини 70% процењене вредности и износи 5.600,00 динара,",https://eaukcija.sud.rs/#/aukcije/100864
+2024-07-03,False,Ириг,17500.0,25000.0,70.0,Pokretnosti,Покретне ствари,"ALPHA” телевизор, комада један, процењена тржишна вредност 25.000,00 динара, а почетна цена чини 70% процењене вредности и износи 17.500,00 динара",https://eaukcija.sud.rs/#/aukcije/100865
+2024-07-03,False,Ириг,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,"- “HP” штампач, комада један, процењена тржишна вредност 12.000,00 динара, а почетна цена чини 70% процењене вредности и износи 8.400,00 динара.",https://eaukcija.sud.rs/#/aukcije/100866
+2024-07-03,False,Бујановац,12600.0,18000.0,70.0,Pokretnosti,Покретне ствари,Телевизор Самсунг црне боје  дијагонале 126цм,https://eaukcija.sud.rs/#/aukcije/100886
+2024-07-03,False,Бујановац,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,Кухиња црно беле боје,https://eaukcija.sud.rs/#/aukcije/100887
+2024-07-03,False,Бујановац,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,Веш машина Горење беле боје,https://eaukcija.sud.rs/#/aukcije/100888
+2024-07-03,True,Бујановац,60000.0,120000.0,50.0,Pokretnosti,Покретне ствари,Кухиња са елементима,https://eaukcija.sud.rs/#/aukcije/100902
+2024-07-03,True,Бујановац,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Клуб сто , дрвени беле боје ",https://eaukcija.sud.rs/#/aukcije/100903
+2024-07-03,True,Бујановац,15000.0,30000.0,50.0,Pokretnosti,Покретне ствари,Три троседа црно беле боје,https://eaukcija.sud.rs/#/aukcije/100904
+2024-07-03,True,Бујановац,5500.0,11000.0,50.0,Pokretnosti,Покретне ствари,Трпезаријски сто са шест  столица,https://eaukcija.sud.rs/#/aukcije/100905
+2024-07-03,True,Бујановац,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,Вишеделни рагал беле боје  са два огледала,https://eaukcija.sud.rs/#/aukcije/100906
+2024-07-03,True,Бујановац,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,Комода за телевизор беле боје,https://eaukcija.sud.rs/#/aukcije/100907
+2024-07-03,True,Бујановац,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,Уградни шпорет марке Сибир ,https://eaukcija.sud.rs/#/aukcije/100908
+2024-07-03,True,Бујановац,4500.0,9000.0,50.0,Pokretnosti,Покретне ствари,Уградна електрична плоча,https://eaukcija.sud.rs/#/aukcije/100909
+2024-07-03,True,Врање-град,1250.0,2500.0,50.0,Pokretnosti,Покретне ствари,Столице 4 комада,https://eaukcija.sud.rs/#/aukcije/100918
+2024-07-03,True,Врање-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,Телевизор марке Vox дијагонале 110 цм,https://eaukcija.sud.rs/#/aukcije/100919
+2024-07-03,True,Врање-град,3000.0,6000.0,50.0,Pokretnosti,Покретне ствари,Фрижидер Beko,https://eaukcija.sud.rs/#/aukcije/100920
+2024-07-03,True,Врање-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,Веш машина  Beko беле боје,https://eaukcija.sud.rs/#/aukcije/100921
+2024-07-03,True,Врање-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,Кухиња са елементима,https://eaukcija.sud.rs/#/aukcije/100922
+2024-07-03,True,Врање-град,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,Кухињски сто,https://eaukcija.sud.rs/#/aukcije/100923
+2024-07-03,True,Врање-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,Регал вишеделни са два огледала,https://eaukcija.sud.rs/#/aukcije/100924
+2024-07-03,True,Књажевац,2226845.5,4453691.0,50.0,Nepokretnosti,Објекат,"-кп.бр. 114/7, двособан стан у Књажевцу ул. Љ. Милановића-Копецког, бр. објекта 1, број стана 15, број улаза 3, трећи спрат, у површини од 64 м2, уписана у лист непокретности бр. 11685 КО Књажевац, са уделом 1/1 у приватној својини.",https://eaukcija.sud.rs/#/aukcije/100928
 2024-07-04,False,Параћин,11623.66,16605.23,70.0,Nepokretnosti,Непокретности,"на кп.бр. 638 њива 5.класе, површине 1435м2, потес : Обзовац, која је у својини извршног дужника, са обимом удела 1/3, уписана у ЛН 50 КО Клачевица",https://eaukcija.sud.rs/#/aukcije/100433
 2024-07-04,False,Параћин,7721.66,11030.94,70.0,Nepokretnosti,Непокретности,"на кп.бр. 1458 њива 7.класе, површине 1412м2, потес : Лободерина, која је у својини извршног дужника, са обимом удела 1/3, уписана у ЛН 50 КО Клачевица,",https://eaukcija.sud.rs/#/aukcije/100434
 2024-07-04,False,Нови Сад - град,3305504.0,3305504.0,100.0,Nepokretnosti,Пољопривредно земљиште,"Пољопривредно земљиште на кат. парцели бр. 1084, К.О. Будисава, ул. Шајкашка, површина парцеле 0 ха 68 а 32 м2, уписано у ЛН бр. 2044, К.О. Будисава, у приватној својини извршног дужника, у обиму 1/1 дела.",https://eaukcija.sud.rs/#/aukcije/100818
@@ -3935,6 +3107,36 @@ objekat ima odobrenje za gradnju ",https://eaukcija.sud.rs/#/aukcije/100364
 2024-07-04,False,Земун,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,Ласерски штампач „RICOH” SP3510 “ATICION”,https://eaukcija.sud.rs/#/aukcije/100823
 2024-07-04,False,Земун,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,Ласерски штампач „RICOH” SP333SN,https://eaukcija.sud.rs/#/aukcije/100824
 2024-07-04,False,Земун,105000.0,150000.0,70.0,Pokretnosti,Покретне ствари,"Компресор са мотором, 275 литара",https://eaukcija.sud.rs/#/aukcije/100825
+2024-07-04,True,Врање-град,11000.0,22000.0,50.0,Pokretnosti,Покретне ствари,Електрични шпорет марке Vox  са равном плочом металик сиве боје ,https://eaukcija.sud.rs/#/aukcije/100874
+2024-07-04,True,Врање-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,Трпезаријски сто са шест столица  браон боје,https://eaukcija.sud.rs/#/aukcije/100875
+2024-07-04,True,Врање-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,Трпезаријска  дводелна  комода која се састоји од доњег дела  браон боје и горњег дела дрво /стакло,https://eaukcija.sud.rs/#/aukcije/100876
+2024-07-04,True,Врање-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,Телевизор марке Tesla,https://eaukcija.sud.rs/#/aukcije/100877
+2024-07-04,True,Врање-град,2500.0,5000.0,50.0,Pokretnosti,Покретне ствари,Вишеделни регал,https://eaukcija.sud.rs/#/aukcije/100878
+2024-07-04,True,Врање-град,500.0,1000.0,50.0,Pokretnosti,Покретне ствари,Канцеларијска столица ,https://eaukcija.sud.rs/#/aukcije/100879
+2024-07-04,True,Врање-град,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,Два троседа бордо боје на развлачење,https://eaukcija.sud.rs/#/aukcije/100880
+2024-07-04,True,Врање-град,6000.0,12000.0,50.0,Pokretnosti,Покретне ствари,Веш машина  марке Горење,https://eaukcija.sud.rs/#/aukcije/100881
+2024-07-04,True,Врање-град,7500.0,15000.0,50.0,Pokretnosti,Покретне ствари,Угаони плакар,https://eaukcija.sud.rs/#/aukcije/100882
+2024-07-04,True,Врање-град,10000.0,20000.0,50.0,Pokretnosti,Покретне ствари,"Дрвена кухиња  са висећим и доњим делом, дужине 4 метра браон боје",https://eaukcija.sud.rs/#/aukcije/100883
+2024-07-04,True,Врање-град,5000.0,10000.0,50.0,Pokretnosti,Покретне ствари,Телевизор марке Vox ,https://eaukcija.sud.rs/#/aukcije/100884
+2024-07-04,True,Врање-град,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,Замрзивач марке Беко,https://eaukcija.sud.rs/#/aukcije/100885
+2024-07-04,False,Бујановац,14000.0,20000.0,70.0,Pokretnosti,Покретне ствари,Угаона гарнитура црне боје,https://eaukcija.sud.rs/#/aukcije/100889
+2024-07-04,False,Бујановац,1400.0,2000.0,70.0,Pokretnosti,Покретне ствари,Клуб сто,https://eaukcija.sud.rs/#/aukcije/100890
+2024-07-04,False,Бујановац,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,Витрина вишеделна,https://eaukcija.sud.rs/#/aukcije/100891
+2024-07-04,False,Бујановац,257110.0,367300.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Кат. парцела бр. 1475 КО Лопардинце Њива 6. класе, потес: Папрљивица, површине 1826 м2, у приватној својини извршног дужника са обимом удела 1/1,   уписана у Листу непокретности бр. 870   КО Лопардинце, општина Бујановац.",https://eaukcija.sud.rs/#/aukcije/100892
+2024-07-04,False,Врањска бања,462935.2,661336.0,70.0,Nepokretnosti,Шумско земљиште,"Кат.парцела бр. 1557 КО Изумно Шума 5. класе, потес: Језерина, површине 3548 м2,  у приватној својини извршног дужника са обимом удела 1/1, уписана у Листу непокретности бр. 441 КО Изумно, општина Врањска бања",https://eaukcija.sud.rs/#/aukcije/100893
+2024-07-04,False,Врањска бања,273730.1,391043.0,70.0,Nepokretnosti,Шумско земљиште,"Кат.парцела бр. 1563 КО Изумно Шума 5. класе, потес: Језерина, површине 2531 м2,  у приватној својини извршног дужника са обимом удела 1/1, уписана у Листу непокретности бр. 441 КО Изумно, општина Врањска бања.",https://eaukcija.sud.rs/#/aukcije/100894
+2024-07-04,False,Врањска бања,387989.0,554270.0,70.0,Nepokretnosti,Шумско земљиште,"Кат.парцела бр. 1567 КО Изумно Шума 4. класе, потес: Језерина, површине 3394 м2,  у приватној својини извршног дужника са обимом удела 1/1, уписана у Листу непокретности бр. 441 КО Изумно, општина Врањска бања.",https://eaukcija.sud.rs/#/aukcije/100895
+2024-07-04,False,Врањска бања,91105.0,130150.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Кат.парцела бр. 1568 КО Изумно Њива 8. класе, потес: Језерина, површине 1370 м2,  у приватној својини извршног дужника са обимом удела 1/1,  уписана у Листу непокретности бр. 441 КО Изумно, општина Врањска Бања.",https://eaukcija.sud.rs/#/aukcije/100896
+2024-07-04,False,Врањска бања,109126.5,155895.0,70.0,Nepokretnosti,Пољопривредно земљиште,"Кат.парцела бр. 1650 КО Изумно Пашњак 5. класе, потес: Језерина, површине 1641 м2,  у приватној својини извршног дужника са обимом удела 1/1,  уписана у Листу непокретности бр. 441 КО Изумно, општина Врањска бања.",https://eaukcija.sud.rs/#/aukcije/100898
+2024-07-04,False,Врњачка Бања,33600.0,48000.0,70.0,Pokretnosti,Разна роба,Клима уређај марке VOX,https://eaukcija.sud.rs/#/aukcije/100899
+2024-07-04,False,Чачак-град,10500.0,15000.0,70.0,Pokretnosti,Намештај,телевизор,https://eaukcija.sud.rs/#/aukcije/100949
+2024-07-04,False,Чачак-град,8400.0,12000.0,70.0,Pokretnosti,Покретне ствари,иверица сиво бела,https://eaukcija.sud.rs/#/aukcije/100950
+2024-07-04,False,Чачак-град,2800.0,4000.0,70.0,Pokretnosti,Покретне ствари,клуб сточић стакло,https://eaukcija.sud.rs/#/aukcije/100951
+2024-07-04,False,Чачак-град,5600.0,8000.0,70.0,Pokretnosti,Покретне ствари,плакар са чивилуком браон,https://eaukcija.sud.rs/#/aukcije/100952
+2024-07-04,False,Чачак-град,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,"веш машина ""Беко"" ",https://eaukcija.sud.rs/#/aukcije/100953
+2024-07-04,False,Чачак-град,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,ормар већи,https://eaukcija.sud.rs/#/aukcije/100954
+2024-07-04,False,Чачак-град,1750.0,2500.0,70.0,Pokretnosti,Покретне ствари,"усисивач непознате марке, сиво љубичасти",https://eaukcija.sud.rs/#/aukcije/100955
+2024-07-04,False,Чачак-град,3500.0,5000.0,70.0,Pokretnosti,Покретне ствари,фотеља,https://eaukcija.sud.rs/#/aukcije/100956
 2024-07-05,False,Нова Варош,206500.0,295000.0,70.0,Pokretnosti,Путничко возило или део,ВОЗИЛО У ДРЖАВИНИ ДУЖНИКА ГОДИНА ПРОИЗВОДЊЕ 2004,https://eaukcija.sud.rs/#/aukcije/100814
 2024-07-05,False,Ариље,327600.0,468000.0,70.0,Pokretnosti,Пољопривредна машина или део,ТРАКТОР ИМТ 539 СА КАБИНОМ БЕЗ РЕГИСТАРСКЕ ОЗНАКЕ И БЛИЖИХ ПОДАТАКА,https://eaukcija.sud.rs/#/aukcije/100819
 2024-07-05,False,Бојник,7000.0,10000.0,70.0,Pokretnosti,Електронска и рачунарска опрема или део,Лап топ dell insprion – црне боје,https://eaukcija.sud.rs/#/aukcije/100834
@@ -3942,3 +3144,33 @@ objekat ima odobrenje za gradnju ",https://eaukcija.sud.rs/#/aukcije/100364
 2024-07-05,False,Бојник,3500.0,5000.0,70.0,Pokretnosti,Покретне ствари,Телевизор Bluberry – 32”,https://eaukcija.sud.rs/#/aukcije/100836
 2024-07-05,False,Бојник,2800.0,4000.0,70.0,Pokretnosti,Намештај,Сточић беле боје са оштећењем,https://eaukcija.sud.rs/#/aukcije/100837
 2024-07-05,False,Бојник,3500.0,5000.0,70.0,Pokretnosti,Намештај,Двосед беле боје са оштећењем,https://eaukcija.sud.rs/#/aukcije/100838
+2024-07-05,False,Лесковац-град,1344072.1,1920103.0,70.0,Nepokretnosti,Кућа,"Кп.бр. 1462, улица Жикице Јовановића Шпанца, површине 203 м2 и то: број дела 1, површине 92 м2, земљиште под зградом и другим објектом, број дела 2, површне 111 м2, земљиште уз зграду и други објекат, уписан у ЛН 3126 за КО Лесковац, врста права право коришћења, обим права реални део, удео извршног дужника 50/472 и породична стамбена зграда  - део, површине у габариту 92 м2, део зграде у габариту од 92 м2 налази на кп.бр. 1462 за КО Лесковац, док се део зграде од 3 м2 у габариту налази на кп.бр. 1461 за КО Лесковац, на основу података стручног лица спратности приземље и поткровље, укупне површине 190 м2 и то: приземље 95 м2 и поткровље 95 м2, објекат изграђен без одобрења за градњу, на основу података уписаних у катастру корисна површина објекта није евидентирана, грађевинска површина објекта није евидентирана, уписана у ЛН 3126 за КО Лесковац, врста права држалац, обим права идеални део, са уделом извршног дужника 1/3 ",https://eaukcija.sud.rs/#/aukcije/100839
+2024-07-05,False,Лесковац-град,77140.0,110200.0,70.0,Nepokretnosti,Парцела,"-	Кп.бр. 1461, улица Жикице Јовановића Шпанца, површине 269 м2 и то: број дела 1, површине 118 м2, земљиште под зградом и другим објектом, број дела 2, површине 3 м2, земљиште под делом зграде, број дела 3, површине 148 м2, земљиште уз зграду и други објекат, уписано у ЛН 3126 за КО Лесковац, врста права право коришћења, обим права реални део, са уделом извршног дужника 50/472 –процењене тржишне вредности у износу од 110.200,00 динара, почетна цена у износу од 77.140,00 динара.",https://eaukcija.sud.rs/#/aukcije/100840
+2024-07-05,True,Ивањица,8400.0,12000.0,70.0,Pokretnosti,Разна роба,исправан,https://eaukcija.sud.rs/#/aukcije/100852
+2024-07-05,True,Ивањица,2100.0,3000.0,70.0,Pokretnosti,Разна роба,исправан,https://eaukcija.sud.rs/#/aukcije/100853
+2024-07-05,True,Ивањица,7000.0,10000.0,70.0,Pokretnosti,Разна роба,очувана,https://eaukcija.sud.rs/#/aukcije/100854
+2024-07-05,True,Ивањица,17500.0,25000.0,70.0,Pokretnosti,Разна роба,очувано,https://eaukcija.sud.rs/#/aukcije/100855
+2024-07-05,True,Бор,110000.0,220000.0,50.0,Pokretnosti,Покретне ствари,"Трактор ""Ursus "" C-355,рег.ознака RU ABL-12 затечена у дружавини, не води се на извршног дужника.",https://eaukcija.sud.rs/#/aukcije/100867
+2024-07-05,True,Бор,13500.0,27000.0,50.0,Pokretnosti,Покретне ствари,Тракторски плуг-дворедни,https://eaukcija.sud.rs/#/aukcije/100868
+2024-07-05,True,Бор,1500.0,3000.0,50.0,Pokretnosti,Покретне ствари,"Телевизор "" Vox"" ",https://eaukcija.sud.rs/#/aukcije/100869
+2024-07-05,True,Бор,4000.0,8000.0,50.0,Pokretnosti,Покретне ствари,"Телевизор "" Weg"" ",https://eaukcija.sud.rs/#/aukcije/100870
+2024-07-05,True,Бор,9000.0,18000.0,50.0,Pokretnosti,Покретне ствари,Четворокрилни регал,https://eaukcija.sud.rs/#/aukcije/100871
+2024-07-05,True,Бор,75000.0,150000.0,50.0,Pokretnosti,Транспортно возило или део,"Тракторска приколица СО Бор 2243, затечена у дружавини , не води се на извршног дужника.",https://eaukcija.sud.rs/#/aukcije/100872
+2024-07-05,False,Кула,2450000.0,3500000.0,70.0,Pokretnosti,Пољопривредна машина или део,„VOGEL NOOT PLUS 1000“ шесторедни плуг превртач,https://eaukcija.sud.rs/#/aukcije/100900
+2024-07-05,False,Кула,1074500.0,1535000.0,70.0,Pokretnosti,Пољопривредна машина или део,„VOGEL NOOT“ петоредни плуг превртач,https://eaukcija.sud.rs/#/aukcije/100901
+2024-07-05,False,Кула,70000.0,100000.0,70.0,Pokretnosti,Пољопривредна машина или део,Шесторедни шпартач,https://eaukcija.sud.rs/#/aukcije/100910
+2024-07-05,False,Кула,35000.0,50000.0,70.0,Pokretnosti,Пољопривредна машина или део,Цистерна на гориво 1000 l – метална,https://eaukcija.sud.rs/#/aukcije/100911
+2024-07-05,False,Лесковац-град,2100.0,3000.0,70.0,Pokretnosti,Остала опрема или деоо,"Телевизор ""Panasonic""",https://eaukcija.sud.rs/#/aukcije/100912
+2024-07-05,False,Лесковац-град,16800.0,24000.0,70.0,Pokretnosti,Намештај,"Трпезаријски сто беле боје, са 6 столица",https://eaukcija.sud.rs/#/aukcije/100913
+2024-07-05,False,Лесковац-град,7000.0,10000.0,70.0,Pokretnosti,Намештај,"ТВ полица браон боје, са две комодице",https://eaukcija.sud.rs/#/aukcije/100914
+2024-07-05,False,Лесковац-град,5600.0,8000.0,70.0,Pokretnosti,Намештај,"Кухиња од иверице, браон боје",https://eaukcija.sud.rs/#/aukcije/100915
+2024-07-05,False,Лесковац-град,2100.0,3000.0,70.0,Pokretnosti,Остала опрема или деоо,Микроталасна пећ AEG,https://eaukcija.sud.rs/#/aukcije/100916
+2024-07-05,False,Лесковац-град,10500.0,15000.0,70.0,Pokretnosti,Остала опрема или деоо,Веш машина Panasonic,https://eaukcija.sud.rs/#/aukcije/100917
+2024-07-05,False,Црвени Крст,12600.0,18000.0,70.0,Pokretnosti,Покретне ствари,марке: VOX LED 32”,https://eaukcija.sud.rs/#/aukcije/100958
+2024-07-05,False,Црвени Крст,10500.0,15000.0,70.0,Pokretnosti,Покретне ствари,браон боје,https://eaukcija.sud.rs/#/aukcije/100959
+2024-07-05,False,Црвени Крст,15400.0,22000.0,70.0,Pokretnosti,Покретне ствари,марке БЕКО сандучар,https://eaukcija.sud.rs/#/aukcije/100960
+2024-07-05,False,Црвени Крст,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,марке: FOX LCD 32”,https://eaukcija.sud.rs/#/aukcije/100961
+2024-07-05,False,Црвени Крст,12600.0,18000.0,70.0,Pokretnosti,Намештај,сиве боје,https://eaukcija.sud.rs/#/aukcije/100962
+2024-07-05,False,Црвени Крст,7000.0,10000.0,70.0,Pokretnosti,Покретне ствари,"марке: GORENJE 
+6 кг, 800 обртаја
+",https://eaukcija.sud.rs/#/aukcije/100963
