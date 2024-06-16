@@ -1,6 +1,7 @@
+from datetime import datetime
+
 import pandas as pd
 import streamlit as st
-from datetime import datetime
 from steamlit_filterable_df import StreamlitFilterableDF
 
 st.set_page_config(layout="wide", page_title="Bolje E-Aukcije")
@@ -15,22 +16,27 @@ st.markdown("""
     padding-bottom: 0rem;
 }
 </style>
-""", unsafe_allow_html=True)
+""",
+    unsafe_allow_html=True,
+)
+
 
 @st.cache_data
 def load_data():
     df = pd.read_csv("https://raw.githubusercontent.com/FJakovljevic/eaukcije_cronjob/main/data/EAukcija_dump.csv")
-    df['Datum'] = pd.to_datetime(df['Datum'])
+    df["Datum"] = pd.to_datetime(df["Datum"])
     return df
+
 
 def get_auctions_df():
     df = load_data()
 
     # clearing cache when its passed the day
-    if df['Datum'].max().date() < datetime.today().date():
+    if df["Datum"].min().date() < datetime.today().date():
         st.cache_data.clear()
- 
+
     return load_data()
+
 
 st.header("Bolja E-Aukcija", divider="green")
 st.markdown("""

@@ -77,7 +77,7 @@ class BoolPicker(Picker):
 class MultiselectPicker(Picker):
     def render_and_update(self, pd_series, *args, **kwargs):
         selected = self.value or []
-        options = sorted(set(pd_series.to_list() + selected))
+        options = sorted(set(pd_series.dropna().to_list() + selected))
         selected = st.multiselect(self.label, options, default=selected)
         return self.update(selected)
 
